@@ -1,0 +1,1000 @@
+Passenger 1 enters the museum at Mon May  1 15:27:43 2023
+Passenger 2 enters the museum at Mon May  1 15:27:43 2023
+Passenger 3 enters the museum at Mon May  1 15:27:43 2023
+Passenger 5 enters the museum at Mon May  1 15:27:43 2023
+Passenger 7 enters the museum at Mon May  1 15:27:43 2023
+Passenger 9 enters the museum at Mon May  1 15:27:43 2023
+Passenger 4 enters the museum at Mon May  1 15:27:43 2023
+Passenger 12 enters the museum at Mon May  1 15:27:43 2023
+Passenger 14 enters the museum at Mon May  1 15:27:43 2023
+Passenger 10 enters the museum at Mon May  1 15:27:43 2023
+Passenger 16 enters the museum at Mon May  1 15:27:43 2023
+Passenger 8 enters the museum at Mon May  1 15:27:43 2023
+Passenger 18 enters the museum at Mon May  1 15:27:43 2023
+Passenger 19 enters the museum at Mon May  1 15:27:43 2023
+Passenger 6 enters the museum at Mon May  1 15:27:43 2023
+Passenger 21 enters the museum at Mon May  1 15:27:43 2023
+Passenger 22 enters the museum at Mon May  1 15:27:43 2023
+Passenger 15 enters the museum at Mon May  1 15:27:43 2023
+Passenger 24 enters the museum at Mon May  1 15:27:43 2023
+Passenger 25 enters the museum at Mon May  1 15:27:43 2023
+Passenger 13 enters the museum at Mon May  1 15:27:43 2023
+Passenger 26 enters the museum at Mon May  1 15:27:43 2023
+Passenger 11 enters the museum at Mon May  1 15:27:43 2023
+Passenger 23 enters the museum at Mon May  1 15:27:43 2023
+Passenger 29 enters the museum at Mon May  1 15:27:43 2023
+Passenger 20 enters the museum at Mon May  1 15:27:43 2023
+Passenger 31 enters the museum at Mon May  1 15:27:43 2023
+Passenger 28 enters the museum at Mon May  1 15:27:43 2023
+Passenger 17 enters the museum at Mon May  1 15:27:43 2023
+Passenger 30 enters the museum at Mon May  1 15:27:43 2023
+Passenger 27 enters the museum at Mon May  1 15:27:43 2023
+Passenger 35 enters the museum at Mon May  1 15:27:43 2023
+Passenger 32 enters the museum at Mon May  1 15:27:43 2023
+Passenger 34 enters the museum at Mon May  1 15:27:43 2023
+Passenger 36 enters the museum at Mon May  1 15:27:43 2023
+Passenger 42 enters the museum at Mon May  1 15:27:43 2023
+Passenger 37 enters the museum at Mon May  1 15:27:43 2023
+Passenger 33 enters the museum at Mon May  1 15:27:43 2023
+Passenger 38 enters the museum at Mon May  1 15:27:43 2023
+Passenger 47 enters the museum at Mon May  1 15:27:43 2023
+Passenger 39 enters the museum at Mon May  1 15:27:43 2023
+Passenger 40 enters the museum at Mon May  1 15:27:43 2023
+Passenger 41 enters the museum at Mon May  1 15:27:43 2023
+Passenger 43 enters the museum at Mon May  1 15:27:43 2023
+Passenger 44 enters the museum at Mon May  1 15:27:43 2023
+Passenger 45 enters the museum at Mon May  1 15:27:43 2023
+Passenger 46 enters the museum at Mon May  1 15:27:43 2023
+Passenger 48 enters the museum at Mon May  1 15:27:43 2023
+Passenger 49 enters the museum at Mon May  1 15:27:43 2023
+Passenger 50 enters the museum at Mon May  1 15:27:43 2023
+Passenger 1 made a ride request at Mon May  1 15:27:43 2023
+Passenger 2 made a ride request at Mon May  1 15:27:43 2023
+Car 24 accepts Passenger 2's request
+Car 25 accepts Passenger 1's request
+Passenger 2 started riding at Mon May  1 15:27:43 2023
+Car 24 is riding Passenger 2
+Passenger 1 started riding at Mon May  1 15:27:43 2023
+Car 25 is riding Passenger 1
+Passenger 3 made a ride request at Mon May  1 15:27:43 2023
+Car 23 accepts Passenger 3's request
+Passenger 7 made a ride request at Mon May  1 15:27:43 2023
+Passenger 3 started riding at Mon May  1 15:27:43 2023
+Car 23 is riding Passenger 3
+Passenger 5 made a ride request at Mon May  1 15:27:43 2023
+Car 21 accepts Passenger 5's request
+Passenger 5 started riding at Mon May  1 15:27:43 2023
+Car 21 is riding Passenger 5
+Car 22 accepts Passenger 7's request
+Passenger 7 started riding at Mon May  1 15:27:43 2023
+Car 22 is riding Passenger 7
+Passenger 9 made a ride request at Mon May  1 15:27:43 2023
+Car 20 accepts Passenger 9's request
+Passenger 9 started riding at Mon May  1 15:27:43 2023
+Car 20 is riding Passenger 9
+Passenger 4 made a ride request at Mon May  1 15:27:43 2023
+Car 19 accepts Passenger 4's request
+Passenger 12 made a ride request at Mon May  1 15:27:43 2023
+Passenger 4 started riding at Mon May  1 15:27:43 2023
+Car 19 is riding Passenger 4
+Passenger 14 made a ride request at Mon May  1 15:27:43 2023
+Car 17 accepts Passenger 14's request
+Car 18 accepts Passenger 12's request
+Passenger 14 started riding at Mon May  1 15:27:43 2023
+Car 17 is riding Passenger 14
+Passenger 12 started riding at Mon May  1 15:27:43 2023
+Car 18 is riding Passenger 12
+Passenger 10 made a ride request at Mon May  1 15:27:43 2023
+Passenger 8 made a ride request at Mon May  1 15:27:43 2023
+Car 16 accepts Passenger 10's request
+Car 15 accepts Passenger 8's request
+Passenger 10 started riding at Mon May  1 15:27:43 2023
+Car 16 is riding Passenger 10
+Passenger 18 made a ride request at Mon May  1 15:27:43 2023
+Passenger 19 made a ride request at Mon May  1 15:27:43 2023
+Car 14 accepts Passenger 18's request
+Car 13 accepts Passenger 19's request
+Passenger 18 started riding at Mon May  1 15:27:43 2023
+Car 14 is riding Passenger 18
+Passenger 21 made a ride request at Mon May  1 15:27:43 2023
+Car 12 accepts Passenger 21's request
+Passenger 8 started riding at Mon May  1 15:27:43 2023
+Car 15 is riding Passenger 8
+Passenger 23 made a ride request at Mon May  1 15:27:43 2023
+Passenger 15 made a ride request at Mon May  1 15:27:43 2023
+Car 11 accepts Passenger 23's request
+Passenger 16 made a ride request at Mon May  1 15:27:43 2023
+Car 10 accepts Passenger 15's request
+Car 9 accepts Passenger 16's request
+Passenger 23 started riding at Mon May  1 15:27:43 2023
+Car 11 is riding Passenger 23
+Passenger 25 made a ride request at Mon May  1 15:27:43 2023
+Passenger 6 made a ride request at Mon May  1 15:27:43 2023
+Car 7 accepts Passenger 6's request
+Passenger 19 started riding at Mon May  1 15:27:43 2023
+Car 13 is riding Passenger 19
+Car 8 accepts Passenger 25's request
+Passenger 25 started riding at Mon May  1 15:27:43 2023
+Car 8 is riding Passenger 25
+Passenger 13 made a ride request at Mon May  1 15:27:43 2023
+Passenger 11 made a ride request at Mon May  1 15:27:43 2023
+Passenger 26 made a ride request at Mon May  1 15:27:43 2023
+Car 4 accepts Passenger 26's request
+Car 6 accepts Passenger 13's request
+Car 5 accepts Passenger 11's request
+Passenger 26 started riding at Mon May  1 15:27:43 2023
+Car 4 is riding Passenger 26
+Passenger 29 made a ride request at Mon May  1 15:27:43 2023
+Car 3 accepts Passenger 29's request
+Passenger 22 made a ride request at Mon May  1 15:27:43 2023
+Car 2 accepts Passenger 22's request
+Passenger 15 started riding at Mon May  1 15:27:43 2023
+Car 10 is riding Passenger 15
+Passenger 42 made a ride request at Mon May  1 15:27:43 2023
+Car 1 accepts Passenger 42's request
+Passenger 20 made a ride request at Mon May  1 15:27:43 2023
+Passenger 16 started riding at Mon May  1 15:27:43 2023
+Car 9 is riding Passenger 16
+Passenger 31 made a ride request at Mon May  1 15:27:43 2023
+Passenger 6 started riding at Mon May  1 15:27:43 2023
+Car 7 is riding Passenger 6
+Passenger 28 made a ride request at Mon May  1 15:27:43 2023
+Passenger 17 made a ride request at Mon May  1 15:27:43 2023
+Passenger 40 made a ride request at Mon May  1 15:27:43 2023
+Passenger 21 started riding at Mon May  1 15:27:43 2023
+Car 12 is riding Passenger 21
+Passenger 30 made a ride request at Mon May  1 15:27:43 2023
+Passenger 27 made a ride request at Mon May  1 15:27:43 2023
+Passenger 41 made a ride request at Mon May  1 15:27:43 2023
+Passenger 13 started riding at Mon May  1 15:27:43 2023
+Car 6 is riding Passenger 13
+Passenger 43 made a ride request at Mon May  1 15:27:43 2023
+Passenger 11 started riding at Mon May  1 15:27:43 2023
+Car 5 is riding Passenger 11
+Passenger 35 made a ride request at Mon May  1 15:27:43 2023
+Passenger 29 started riding at Mon May  1 15:27:43 2023
+Car 3 is riding Passenger 29
+Passenger 32 made a ride request at Mon May  1 15:27:43 2023
+Passenger 45 made a ride request at Mon May  1 15:27:43 2023
+Passenger 24 made a ride request at Mon May  1 15:27:43 2023
+Passenger 46 made a ride request at Mon May  1 15:27:43 2023
+Passenger 36 made a ride request at Mon May  1 15:27:43 2023
+Passenger 42 started riding at Mon May  1 15:27:43 2023
+Car 1 is riding Passenger 42
+Passenger 50 made a ride request at 
+Passenger 37 made a ride request at Mon May  1 15:27:43 2023
+Passenger 33 made a ride request at Mon May  1 15:27:43 2023
+Passenger 38 made a ride request at Mon May  1 15:27:43 2023
+Passenger 47 made a ride request at Mon May  1 15:27:43 2023
+Passenger 39 made a ride request at Mon May  1 15:27:43 2023
+Passenger 22 started riding at Mon May  1 15:27:43 2023
+Car 2 is riding Passenger 22
+Passenger 34 made a ride request at Mon May  1 15:27:43 2023
+Passenger 44 made a ride request at Mon May  1 15:27:43 2023
+Passenger 48 made a ride request at Mon May  1 15:27:43 2023
+Passenger 49 made a ride request at Mon May  1 15:27:43 2023
+Car 24 finished Passenger 2's tour
+Car 25 finished Passenger 1's tour
+Car 23 finished Passenger 3's tour
+Car 21 finished Passenger 5's tour
+Passenger 1 finished riding at Mon May  1 15:27:44 2023
+Car 22 finished Passenger 7's tour
+Car 20 finished Passenger 9's tour
+Passenger 3 finished riding at Mon May  1 15:27:44 2023
+Passenger 7 finished riding at Mon May  1 15:27:44 2023
+Passenger 5 finished riding at Mon May  1 15:27:44 2023
+Passenger 2 finished riding at Mon May  1 15:27:44 2023
+Car 19 finished Passenger 4's tour
+Passenger 9 finished riding at Mon May  1 15:27:44 2023
+Car 17 finished Passenger 14's tour
+Passenger 4 finished riding at Mon May  1 15:27:44 2023
+Passenger 14 finished riding at Mon May  1 15:27:44 2023
+Car 18 finished Passenger 12's tour
+Passenger 12 finished riding at Mon May  1 15:27:44 2023
+Car 14 finished Passenger 18's tour
+Car 16 finished Passenger 10's tour
+Passenger 10 finished riding at Mon May  1 15:27:44 2023
+Car 15 finished Passenger 8's tour
+Passenger 8 finished riding at Mon May  1 15:27:44 2023
+Passenger 18 finished riding at Mon May  1 15:27:44 2023
+Car 11 finished Passenger 23's tour
+Car 8 finished Passenger 25's tour
+Car 13 finished Passenger 19's tour
+Passenger 23 finished riding at Mon May  1 15:27:44 2023
+Car 4 finished Passenger 26's tour
+Passenger 19 finished riding at Mon May  1 15:27:44 2023
+Passenger 26 finished riding at Mon May  1 15:27:44 2023
+Passenger 25 finished riding at Mon May  1 15:27:44 2023
+Car 10 finished Passenger 15's tour
+Car 9 finished Passenger 16's tour
+Car 7 finished Passenger 6's tour
+Passenger 15 finished riding at Mon May  1 15:27:44 2023
+Passenger 6 finished riding at Mon May  1 15:27:44 2023
+Car 12 finished Passenger 21's tour
+Car 3 finished Passenger 29's tour
+Car 5 finished Passenger 11's tour
+Car 6 finished Passenger 13's tour
+Passenger 16 finished riding at Mon May  1 15:27:44 2023
+Passenger 13 finished riding at Mon May  1 15:27:44 2023
+Passenger 21 finished riding at Mon May  1 15:27:44 2023
+Passenger 29 finished riding at Mon May  1 15:27:44 2023
+Passenger 11 finished riding at Mon May  1 15:27:44 2023
+Car 1 finished Passenger 42's tour
+Passenger 42 finished riding at Mon May  1 15:27:44 2023
+Car 2 finished Passenger 22's tour
+Passenger 22 finished riding at Mon May  1 15:27:44 2023
+Passenger 1 made a ride request at Mon May  1 15:27:44 2023
+Passenger 3 made a ride request at Mon May  1 15:27:44 2023
+Passenger 7 made a ride request at Mon May  1 15:27:44 2023
+Passenger 4 made a ride request at Mon May  1 15:27:44 2023
+Passenger 5 made a ride request at Mon May  1 15:27:44 2023
+Passenger 2 made a ride request at Mon May  1 15:27:44 2023
+Passenger 9 made a ride request at Mon May  1 15:27:44 2023
+Passenger 14 made a ride request at Mon May  1 15:27:44 2023
+Passenger 12 made a ride request at Mon May  1 15:27:44 2023
+Passenger 10 made a ride request at Mon May  1 15:27:44 2023
+Passenger 8 made a ride request at Mon May  1 15:27:44 2023
+Passenger 18 made a ride request at Mon May  1 15:27:44 2023
+Passenger 23 made a ride request at Mon May  1 15:27:44 2023
+Passenger 19 made a ride request at Mon May  1 15:27:44 2023
+Passenger 26 made a ride request at Mon May  1 15:27:44 2023
+Passenger 25 made a ride request at Mon May  1 15:27:44 2023
+Passenger 6 made a ride request at Mon May  1 15:27:44 2023
+Passenger 15 made a ride request at Mon May  1 15:27:44 2023
+Passenger 16 made a ride request at Mon May  1 15:27:44 2023
+Passenger 21 made a ride request at Mon May  1 15:27:44 2023
+Passenger 13 made a ride request at Mon May  1 15:27:44 2023
+Passenger 29 made a ride request at Mon May  1 15:27:44 2023
+Passenger 11 made a ride request at Mon May  1 15:27:44 2023
+Passenger 42 made a ride request at Mon May  1 15:27:44 2023
+Passenger 22 made a ride request at Mon May  1 15:27:44 2023
+Car 21 accepts Passenger 20's request
+Car 25 accepts Passenger 31's request
+Car 20 accepts Passenger 40's request
+Car 23 accepts Passenger 17's request
+Passenger 20 started riding at Mon May  1 15:27:45 2023
+Car 21 is riding Passenger 20
+Car 24 accepts Passenger 28's request
+Car 22 accepts Passenger 30's request
+Passenger 31 started riding at Mon May  1 15:27:45 2023
+Car 25 is riding Passenger 31
+Passenger 28 started riding at Mon May  1 15:27:45 2023
+Car 24 is riding Passenger 28
+Passenger 17 started riding at Mon May  1 15:27:45 2023
+Car 23 is riding Passenger 17
+Car 19 accepts Passenger 27's request
+Car 17 accepts Passenger 41's request
+Passenger 40 started riding at Mon May  1 15:27:45 2023
+Car 20 is riding Passenger 40
+Passenger 30 started riding at Mon May  1 15:27:45 2023
+Car 22 is riding Passenger 30
+Passenger 27 started riding at Mon May  1 15:27:45 2023
+Car 19 is riding Passenger 27
+Passenger 41 started riding at Mon May  1 15:27:45 2023
+Car 17 is riding Passenger 41
+Car 18 accepts Passenger 43's request
+Passenger 43 started riding at Mon May  1 15:27:45 2023
+Car 18 is riding Passenger 43
+Car 15 accepts Passenger 35's request
+Car 16 accepts Passenger 32's request
+Passenger 35 started riding at Mon May  1 15:27:45 2023
+Car 15 is riding Passenger 35
+Passenger 32 started riding at Mon May  1 15:27:45 2023
+Car 16 is riding Passenger 32
+Car 14 accepts Passenger 45's request
+Passenger 45 started riding at Mon May  1 15:27:45 2023
+Car 14 is riding Passenger 45
+Car 13 accepts Passenger 24's request
+Passenger 24 started riding at Mon May  1 15:27:45 2023
+Car 13 is riding Passenger 24
+Car 8 accepts Passenger 36's request
+Passenger 36 started riding at Mon May  1 15:27:45 2023
+Car 8 is riding Passenger 36
+Car 11 accepts Passenger 46's request
+Passenger 46 started riding at Mon May  1 15:27:45 2023
+Car 11 is riding Passenger 46
+Car 4 accepts Passenger 50's request
+Passenger 50 started riding at Mon May  1 15:27:45 2023
+Car 4 is riding Passenger 50
+Car 10 accepts Passenger 33's request
+Passenger 33 started riding at Mon May  1 15:27:45 2023
+Car 10 is riding Passenger 33
+Car 9 accepts Passenger 38's request
+Car 7 accepts Passenger 37's request
+Passenger 38 started riding at Mon May  1 15:27:45 2023
+Car 9 is riding Passenger 38
+Passenger 37 started riding at Mon May  1 15:27:45 2023
+Car 7 is riding Passenger 37
+Car 12 accepts Passenger 47's request
+Passenger 47 started riding at Mon May  1 15:27:45 2023
+Car 12 is riding Passenger 47
+Car 6 accepts Passenger 34's request
+Passenger 34 started riding at Mon May  1 15:27:45 2023
+Car 6 is riding Passenger 34
+Car 3 accepts Passenger 39's request
+Passenger 39 started riding at Mon May  1 15:27:45 2023
+Car 3 is riding Passenger 39
+Car 5 accepts Passenger 44's request
+Passenger 44 started riding at Mon May  1 15:27:45 2023
+Car 5 is riding Passenger 44
+Car 1 accepts Passenger 48's request
+Passenger 48 started riding at Mon May  1 15:27:45 2023
+Car 1 is riding Passenger 48
+Car 2 accepts Passenger 49's request
+Passenger 49 started riding at Mon May  1 15:27:45 2023
+Car 2 is riding Passenger 49
+Car 25 finished Passenger 31's tour
+Car 21 finished Passenger 20's tour
+Car 24 finished Passenger 28's tour
+Car 23 finished Passenger 17's tour
+Passenger 31 finished riding at Mon May  1 15:27:45 2023
+Car 19 finished Passenger 27's tour
+Car 17 finished Passenger 41's tour
+Car 22 finished Passenger 30's tour
+Passenger 41 finished riding at Mon May  1 15:27:45 2023
+Passenger 20 finished riding at Mon May  1 15:27:45 2023
+Car 20 finished Passenger 40's tour
+Passenger 28 finished riding at Mon May  1 15:27:45 2023
+Passenger 17 finished riding at Mon May  1 15:27:45 2023
+Passenger 40 finished riding at Mon May  1 15:27:45 2023
+Passenger 30 finished riding at Mon May  1 15:27:45 2023
+Car 18 finished Passenger 43's tour
+Passenger 27 finished riding at Mon May  1 15:27:45 2023
+Passenger 43 finished riding at Mon May  1 15:27:45 2023
+Car 15 finished Passenger 35's tour
+Car 16 finished Passenger 32's tour
+Passenger 35 finished riding at Mon May  1 15:27:45 2023
+Car 14 finished Passenger 45's tour
+Passenger 32 finished riding at Mon May  1 15:27:45 2023
+Passenger 45 finished riding at Mon May  1 15:27:45 2023
+Car 8 finished Passenger 36's tour
+Car 11 finished Passenger 46's tour
+Passenger 36 finished riding at Mon May  1 15:27:45 2023
+Passenger 46 finished riding at Mon May  1 15:27:45 2023
+Car 13 finished Passenger 24's tour
+Car 4 finished Passenger 50's tour
+Car 10 finished Passenger 33's tour
+Passenger 24 finished riding at Mon May  1 15:27:45 2023
+Passenger 33 finished riding at Mon May  1 15:27:45 2023
+Car 7 finished Passenger 37's tour
+Car 9 finished Passenger 38's tour
+Passenger 50 finished riding at Mon May  1 15:27:45 2023
+Passenger 38 finished riding at Mon May  1 15:27:45 2023
+Car 12 finished Passenger 47's tour
+Passenger 37 finished riding at Mon May  1 15:27:45 2023
+Car 6 finished Passenger 34's tour
+Passenger 47 finished riding at Mon May  1 15:27:45 2023
+Passenger 34 finished riding at Mon May  1 15:27:45 2023
+Car 3 finished Passenger 39's tour
+Passenger 39 finished riding at Mon May  1 15:27:45 2023
+Car 5 finished Passenger 44's tour
+Passenger 44 finished riding at Mon May  1 15:27:45 2023
+Car 1 finished Passenger 48's tour
+Car 2 finished Passenger 49's tour
+Passenger 48 finished riding at Mon May  1 15:27:45 2023
+Passenger 49 finished riding at Mon May  1 15:27:45 2023
+Passenger 31 made a ride request at Mon May  1 15:27:46 2023
+Passenger 41 made a ride request at Mon May  1 15:27:46 2023
+Passenger 40 made a ride request at Mon May  1 15:27:46 2023
+Passenger 20 made a ride request at Mon May  1 15:27:46 2023
+Passenger 43 made a ride request at Mon May  1 15:27:46 2023
+Passenger 28 made a ride request at Mon May  1 15:27:46 2023
+Passenger 30 made a ride request at Mon May  1 15:27:46 2023
+Passenger 17 made a ride request at Mon May  1 15:27:46 2023
+Passenger 27 made a ride request at Mon May  1 15:27:46 2023
+Passenger 35 made a ride request at Mon May  1 15:27:46 2023
+Passenger 32 made a ride request at Mon May  1 15:27:46 2023
+Passenger 45 made a ride request at Mon May  1 15:27:46 2023
+Passenger 46 made a ride request at Mon May  1 15:27:46 2023
+Passenger 36 made a ride request at Mon May  1 15:27:46 2023
+Passenger 33 made a ride request at Mon May  1 15:27:46 2023
+Passenger 24 made a ride request at Mon May  1 15:27:46 2023
+Passenger 50 made a ride request at Mon May  1 15:27:46 2023
+Passenger 37 made a ride request at Mon May  1 15:27:46 2023
+Passenger 38 made a ride request at Mon May  1 15:27:46 2023
+Passenger 34 made a ride request at Mon May  1 15:27:46 2023
+Passenger 47 made a ride request at Mon May  1 15:27:46 2023
+Passenger 39 made a ride request at Mon May  1 15:27:46 2023
+Passenger 44 made a ride request at Mon May  1 15:27:46 2023
+Passenger 48 made a ride request at Mon May  1 15:27:46 2023
+Passenger 49 made a ride request at Mon May  1 15:27:46 2023
+Car 24 accepts Passenger 1's request
+Car 23 accepts Passenger 5's request
+Car 19 accepts Passenger 3's request
+Passenger 1 started riding at Mon May  1 15:27:48 2023
+Car 24 is riding Passenger 1
+Car 17 accepts Passenger 7's request
+Passenger 3 started riding at Mon May  1 15:27:48 2023
+Car 19 is riding Passenger 3
+Car 20 accepts Passenger 9's request
+Car 21 accepts Passenger 4's request
+Car 22 accepts Passenger 14's request
+Car 25 accepts Passenger 2's request
+Passenger 7 started riding at Mon May  1 15:27:48 2023
+Car 17 is riding Passenger 7
+Passenger 9 started riding at Mon May  1 15:27:48 2023
+Car 20 is riding Passenger 9
+Passenger 5 started riding at Mon May  1 15:27:48 2023
+Car 23 is riding Passenger 5
+Car 18 accepts Passenger 12's request
+Car 15 accepts Passenger 8's request
+Passenger 4 started riding at Mon May  1 15:27:48 2023
+Car 21 is riding Passenger 4
+Passenger 12 started riding at Mon May  1 15:27:48 2023
+Car 18 is riding Passenger 12
+Car 16 accepts Passenger 10's request
+Passenger 2 started riding at Mon May  1 15:27:48 2023
+Car 25 is riding Passenger 2
+Passenger 10 started riding at Mon May  1 15:27:48 2023
+Car 16 is riding Passenger 10
+Car 14 accepts Passenger 18's request
+Passenger 18 started riding at Mon May  1 15:27:48 2023
+Car 14 is riding Passenger 18
+Passenger 14 started riding at Mon May  1 15:27:48 2023
+Car 22 is riding Passenger 14
+Passenger 8 started riding at Mon May  1 15:27:48 2023
+Car 15 is riding Passenger 8
+Car 8 accepts Passenger 19's request
+Passenger 19 started riding at Mon May  1 15:27:48 2023
+Car 8 is riding Passenger 19
+Car 11 accepts Passenger 23's request
+Passenger 23 started riding at Mon May  1 15:27:48 2023
+Car 11 is riding Passenger 23
+Car 4 accepts Passenger 26's request
+Passenger 26 started riding at Mon May  1 15:27:48 2023
+Car 4 is riding Passenger 26
+Car 10 accepts Passenger 25's request
+Car 7 accepts Passenger 15's request
+Car 13 accepts Passenger 6's request
+Car 9 accepts Passenger 16's request
+Car 12 accepts Passenger 21's request
+Passenger 15 started riding at Mon May  1 15:27:48 2023
+Car 7 is riding Passenger 15
+Passenger 25 started riding at Mon May  1 15:27:48 2023
+Car 10 is riding Passenger 25
+Passenger 21 started riding at Mon May  1 15:27:48 2023
+Car 12 is riding Passenger 21
+Car 6 accepts Passenger 13's request
+Passenger 6 started riding at Mon May  1 15:27:48 2023
+Car 13 is riding Passenger 6
+Passenger 13 started riding at Mon May  1 15:27:48 2023
+Car 6 is riding Passenger 13
+Passenger 16 started riding at Mon May  1 15:27:48 2023
+Car 9 is riding Passenger 16
+Car 3 accepts Passenger 29's request
+Car 5 accepts Passenger 11's request
+Passenger 29 started riding at Mon May  1 15:27:48 2023
+Car 3 is riding Passenger 29
+Passenger 11 started riding at Mon May  1 15:27:48 2023
+Car 5 is riding Passenger 11
+Car 1 accepts Passenger 42's request
+Passenger 42 started riding at Mon May  1 15:27:48 2023
+Car 1 is riding Passenger 42
+Car 2 accepts Passenger 22's request
+Passenger 22 started riding at Mon May  1 15:27:48 2023
+Car 2 is riding Passenger 22
+Car 24 finished Passenger 1's tour
+Car 19 finished Passenger 3's tour
+Passenger 1 finished riding at Mon May  1 15:27:53 2023
+Car 17 finished Passenger 7's tour
+Car 20 finished Passenger 9's tour
+Car 23 finished Passenger 5's tour
+Passenger 3 finished riding at Mon May  1 15:27:53 2023
+Passenger 7 finished riding at Mon May  1 15:27:53 2023
+Passenger 9 finished riding at Mon May  1 15:27:53 2023
+Passenger 5 finished riding at Mon May  1 15:27:53 2023
+Car 21 finished Passenger 4's tour
+Car 18 finished Passenger 12's tour
+Passenger 4 finished riding at Mon May  1 15:27:53 2023
+Car 25 finished Passenger 2's tour
+Car 16 finished Passenger 10's tour
+Passenger 2 finished riding at Mon May  1 15:27:53 2023
+Passenger 12 finished riding at Mon May  1 15:27:53 2023
+Car 22 finished Passenger 14's tour
+Passenger 10 finished riding at Mon May  1 15:27:53 2023
+Passenger 14 finished riding at Mon May  1 15:27:53 2023
+Car 14 finished Passenger 18's tour
+Car 15 finished Passenger 8's tour
+Passenger 18 finished riding at Mon May  1 15:27:53 2023
+Car 8 finished Passenger 19's tour
+Passenger 8 finished riding at Mon May  1 15:27:53 2023
+Passenger 19 finished riding at Mon May  1 15:27:53 2023
+Car 11 finished Passenger 23's tour
+Passenger 23 finished riding at Mon May  1 15:27:53 2023
+Car 4 finished Passenger 26's tour
+Passenger 26 finished riding at Mon May  1 15:27:53 2023
+Car 12 finished Passenger 21's tour
+Car 7 finished Passenger 15's tour
+Passenger 15 finished riding at Mon May  1 15:27:53 2023
+Car 13 finished Passenger 6's tour
+Car 10 finished Passenger 25's tour
+Passenger 21 finished riding at Mon May  1 15:27:53 2023
+Passenger 6 finished riding at Mon May  1 15:27:53 2023
+Car 6 finished Passenger 13's tour
+Passenger 25 finished riding at Mon May  1 15:27:53 2023
+Passenger 13 finished riding at Mon May  1 15:27:53 2023
+Car 3 finished Passenger 29's tour
+Passenger 29 finished riding at Mon May  1 15:27:53 2023
+Car 5 finished Passenger 11's tour
+Passenger 11 finished riding at Mon May  1 15:27:53 2023
+Car 9 finished Passenger 16's tour
+Passenger 16 finished riding at Mon May  1 15:27:53 2023
+Car 1 finished Passenger 42's tour
+Passenger 42 finished riding at Mon May  1 15:27:53 2023
+Car 2 finished Passenger 22's tour
+Passenger 22 finished riding at Mon May  1 15:27:53 2023
+Passenger 1 made a ride request at Mon May  1 15:27:53 2023
+Passenger 7 made a ride request at Mon May  1 15:27:53 2023
+Passenger 9 made a ride request at Mon May  1 15:27:53 2023
+Passenger 3 made a ride request at Mon May  1 15:27:53 2023
+Passenger 5 made a ride request at Mon May  1 15:27:53 2023
+Passenger 4 made a ride request at Mon May  1 15:27:53 2023
+Passenger 10 made a ride request at Mon May  1 15:27:53 2023
+Passenger 2 made a ride request at Mon May  1 15:27:53 2023
+Passenger 12 made a ride request at Mon May  1 15:27:53 2023
+Passenger 14 made a ride request at Mon May  1 15:27:53 2023
+Passenger 19 made a ride request at Mon May  1 15:27:53 2023
+Passenger 18 made a ride request at Mon May  1 15:27:53 2023
+Passenger 23 made a ride request at Mon May  1 15:27:53 2023
+Passenger 8 made a ride request at Mon May  1 15:27:53 2023
+Passenger 26 made a ride request at Mon May  1 15:27:53 2023
+Passenger 15 made a ride request at Mon May  1 15:27:53 2023
+Passenger 25 made a ride request at Mon May  1 15:27:53 2023
+Passenger 6 made a ride request at Mon May  1 15:27:53 2023
+Passenger 29 made a ride request at Mon May  1 15:27:53 2023
+Passenger 11 made a ride request at Mon May  1 15:27:53 2023
+Passenger 13 made a ride request at Mon May  1 15:27:53 2023
+Passenger 42 made a ride request at Mon May  1 15:27:53 2023
+Passenger 21 made a ride request at Mon May  1 15:27:53 2023
+Passenger 16 made a ride request at Mon May  1 15:27:53 2023
+Passenger 22 made a ride request at Mon May  1 15:27:53 2023
+Car 19 accepts Passenger 31's request
+Car 17 accepts Passenger 40's request
+Passenger 31 started riding at Mon May  1 15:27:55 2023
+Car 19 is riding Passenger 31
+Car 24 accepts Passenger 41's request
+Passenger 40 started riding at Mon May  1 15:27:55 2023
+Car 17 is riding Passenger 40
+Car 23 accepts Passenger 43's request
+Passenger 41 started riding at Mon May  1 15:27:55 2023
+Car 24 is riding Passenger 41
+Car 20 accepts Passenger 20's request
+Car 18 accepts Passenger 28's request
+Car 21 accepts Passenger 30's request
+Passenger 43 started riding at Mon May  1 15:27:55 2023
+Car 23 is riding Passenger 43
+Passenger 28 started riding at Mon May  1 15:27:55 2023
+Car 18 is riding Passenger 28
+Passenger 20 started riding at Mon May  1 15:27:55 2023
+Car 20 is riding Passenger 20
+Car 16 accepts Passenger 17's request
+Car 25 accepts Passenger 27's request
+Car 22 accepts Passenger 35's request
+Passenger 17 started riding at Mon May  1 15:27:55 2023
+Car 16 is riding Passenger 17
+Passenger 35 started riding at Mon May  1 15:27:55 2023
+Car 22 is riding Passenger 35
+Car 15 accepts Passenger 45's request
+Passenger 27 started riding at Mon May  1 15:27:55 2023
+Car 25 is riding Passenger 27
+Car 8 accepts Passenger 32's request
+Passenger 30 started riding at Mon May  1 15:27:55 2023
+Car 21 is riding Passenger 30
+Passenger 32 started riding at Mon May  1 15:27:55 2023
+Car 8 is riding Passenger 32
+Passenger 45 started riding at Mon May  1 15:27:55 2023
+Car 15 is riding Passenger 45
+Car 14 accepts Passenger 46's request
+Passenger 46 started riding at Mon May  1 15:27:55 2023
+Car 14 is riding Passenger 46
+Car 4 accepts Passenger 36's request
+Passenger 36 started riding at Mon May  1 15:27:55 2023
+Car 4 is riding Passenger 36
+Car 11 accepts Passenger 33's request
+Passenger 33 started riding at Mon May  1 15:27:55 2023
+Car 11 is riding Passenger 33
+Car 7 accepts Passenger 24's request
+Car 12 accepts Passenger 50's request
+Passenger 50 started riding at Mon May  1 15:27:55 2023
+Car 12 is riding Passenger 50
+Passenger 24 started riding at Mon May  1 15:27:55 2023
+Car 7 is riding Passenger 24
+Car 10 accepts Passenger 38's request
+Car 6 accepts Passenger 34's request
+Passenger 38 started riding at Mon May  1 15:27:55 2023
+Car 10 is riding Passenger 38
+Car 13 accepts Passenger 37's request
+Passenger 34 started riding at Mon May  1 15:27:55 2023
+Car 6 is riding Passenger 34
+Car 3 accepts Passenger 47's request
+Passenger 37 started riding at Mon May  1 15:27:55 2023
+Car 13 is riding Passenger 37
+Passenger 47 started riding at Mon May  1 15:27:55 2023
+Car 3 is riding Passenger 47
+Car 5 accepts Passenger 39's request
+Passenger 39 started riding at Mon May  1 15:27:55 2023
+Car 5 is riding Passenger 39
+Car 9 accepts Passenger 44's request
+Passenger 44 started riding at Mon May  1 15:27:55 2023
+Car 9 is riding Passenger 44
+Car 1 accepts Passenger 48's request
+Passenger 48 started riding at Mon May  1 15:27:55 2023
+Car 1 is riding Passenger 48
+Car 2 accepts Passenger 49's request
+Passenger 49 started riding at Mon May  1 15:27:55 2023
+Car 2 is riding Passenger 49
+Car 19 finished Passenger 31's tour
+Car 17 finished Passenger 40's tour
+Car 24 finished Passenger 41's tour
+Car 20 finished Passenger 20's tour
+Passenger 31 finished riding at Mon May  1 15:27:55 2023
+Car 23 finished Passenger 43's tour
+Car 18 finished Passenger 28's tour
+Car 16 finished Passenger 17's tour
+Passenger 28 finished riding at Mon May  1 15:27:55 2023
+Car 22 finished Passenger 35's tour
+Passenger 40 finished riding at Mon May  1 15:27:55 2023
+Passenger 43 finished riding at Mon May  1 15:27:55 2023
+Car 25 finished Passenger 27's tour
+Passenger 41 finished riding at Mon May  1 15:27:55 2023
+Car 21 finished Passenger 30's tour
+Car 15 finished Passenger 45's tour
+Car 14 finished Passenger 46's tour
+Car 8 finished Passenger 32's tour
+Passenger 35 finished riding at Mon May  1 15:27:55 2023
+Passenger 17 finished riding at Mon May  1 15:27:55 2023
+Passenger 46 finished riding at Mon May  1 15:27:55 2023
+Passenger 32 finished riding at Mon May  1 15:27:55 2023
+Passenger 45 finished riding at Mon May  1 15:27:55 2023
+Car 4 finished Passenger 36's tour
+Passenger 30 finished riding at Mon May  1 15:27:55 2023
+Passenger 36 finished riding at Mon May  1 15:27:55 2023
+Car 11 finished Passenger 33's tour
+Passenger 20 finished riding at Mon May  1 15:27:55 2023
+Passenger 27 finished riding at Mon May  1 15:27:55 2023
+Car 12 finished Passenger 50's tour
+Passenger 50 finished riding at Mon May  1 15:27:55 2023
+Passenger 33 finished riding at Mon May  1 15:27:55 2023
+Car 7 finished Passenger 24's tour
+Car 10 finished Passenger 38's tour
+Passenger 24 finished riding at Mon May  1 15:27:55 2023
+Passenger 38 finished riding at Mon May  1 15:27:55 2023
+Car 6 finished Passenger 34's tour
+Car 3 finished Passenger 47's tour
+Car 13 finished Passenger 37's tour
+Car 5 finished Passenger 39's tour
+Passenger 39 finished riding at Mon May  1 15:27:55 2023
+Car 9 finished Passenger 44's tour
+Passenger 34 finished riding at Mon May  1 15:27:55 2023
+Passenger 47 finished riding at Mon May  1 15:27:55 2023
+Car 1 finished Passenger 48's tour
+Passenger 44 finished riding at Mon May  1 15:27:55 2023
+Passenger 37 finished riding at Mon May  1 15:27:55 2023
+Car 2 finished Passenger 49's tour
+Passenger 48 finished riding at Mon May  1 15:27:55 2023
+Passenger 49 finished riding at Mon May  1 15:27:55 2023
+Passenger 31 made a ride request at Mon May  1 15:27:55 2023
+Passenger 28 made a ride request at Mon May  1 15:27:55 2023
+Passenger 17 made a ride request at Mon May  1 15:27:55 2023
+Passenger 43 made a ride request at Mon May  1 15:27:55 2023
+Passenger 46 made a ride request at Mon May  1 15:27:55 2023
+Passenger 32 made a ride request at Mon May  1 15:27:55 2023
+Passenger 45 made a ride request at Mon May  1 15:27:55 2023
+Passenger 35 made a ride request at Mon May  1 15:27:55 2023
+Passenger 30 made a ride request at Mon May  1 15:27:55 2023
+Passenger 41 made a ride request at Mon May  1 15:27:55 2023
+Passenger 20 made a ride request at Mon May  1 15:27:55 2023
+Passenger 40 made a ride request at Mon May  1 15:27:55 2023
+Passenger 27 made a ride request at Mon May  1 15:27:55 2023
+Passenger 36 made a ride request at Mon May  1 15:27:55 2023
+Passenger 50 made a ride request at Mon May  1 15:27:55 2023
+Passenger 33 made a ride request at Mon May  1 15:27:55 2023
+Passenger 24 made a ride request at Mon May  1 15:27:55 2023
+Passenger 39 made a ride request at Mon May  1 15:27:55 2023
+Passenger 38 made a ride request at Mon May  1 15:27:55 2023
+Passenger 47 made a ride request at Mon May  1 15:27:55 2023
+Passenger 34 made a ride request at Mon May  1 15:27:55 2023
+Passenger 44 made a ride request at Mon May  1 15:27:55 2023
+Passenger 37 made a ride request at Mon May  1 15:27:55 2023
+Passenger 48 made a ride request at Mon May  1 15:27:55 2023
+Passenger 49 made a ride request at Mon May  1 15:27:55 2023
+Car 17 accepts Passenger 1's request
+Car 18 accepts Passenger 9's request
+Car 16 accepts Passenger 5's request
+Car 22 accepts Passenger 7's request
+Passenger 1 started riding at Mon May  1 15:27:56 2023
+Car 17 is riding Passenger 1
+Car 20 accepts Passenger 10's request
+Car 24 accepts Passenger 3's request
+Passenger 5 started riding at Mon May  1 15:27:56 2023
+Car 16 is riding Passenger 5
+Car 25 accepts Passenger 2's request
+Passenger 9 started riding at Mon May  1 15:27:56 2023
+Car 18 is riding Passenger 9
+Car 19 accepts Passenger 12's request
+Car 23 accepts Passenger 4's request
+Passenger 7 started riding at Mon May  1 15:27:56 2023
+Car 22 is riding Passenger 7
+Car 14 accepts Passenger 14's request
+Car 15 accepts Passenger 19's request
+Passenger 4 started riding at Mon May  1 15:27:56 2023
+Car 23 is riding Passenger 4
+Passenger 19 started riding at Mon May  1 15:27:56 2023
+Car 15 is riding Passenger 19
+Car 21 accepts Passenger 18's request
+Car 8 accepts Passenger 23's request
+Passenger 2 started riding at Mon May  1 15:27:56 2023
+Car 25 is riding Passenger 2
+Passenger 12 started riding at Mon May  1 15:27:56 2023
+Car 19 is riding Passenger 12
+Passenger 10 started riding at Mon May  1 15:27:56 2023
+Car 20 is riding Passenger 10
+Passenger 14 started riding at Mon May  1 15:27:56 2023
+Car 14 is riding Passenger 14
+Passenger 3 started riding at Mon May  1 15:27:56 2023
+Car 24 is riding Passenger 3
+Passenger 18 started riding at Mon May  1 15:27:56 2023
+Car 21 is riding Passenger 18
+Passenger 23 started riding at Mon May  1 15:27:56 2023
+Car 8 is riding Passenger 23
+Car 4 accepts Passenger 8's request
+Passenger 8 started riding at Mon May  1 15:27:56 2023
+Car 4 is riding Passenger 8
+Car 12 accepts Passenger 26's request
+Passenger 26 started riding at Mon May  1 15:27:56 2023
+Car 12 is riding Passenger 26
+Car 11 accepts Passenger 15's request
+Passenger 15 started riding at Mon May  1 15:27:56 2023
+Car 11 is riding Passenger 15
+Car 7 accepts Passenger 25's request
+Passenger 25 started riding at Mon May  1 15:27:56 2023
+Car 7 is riding Passenger 25
+Car 10 accepts Passenger 6's request
+Passenger 6 started riding at Mon May  1 15:27:56 2023
+Car 10 is riding Passenger 6
+Car 5 accepts Passenger 29's request
+Car 6 accepts Passenger 42's request
+Passenger 29 started riding at Mon May  1 15:27:56 2023
+Car 5 is riding Passenger 29
+Passenger 42 started riding at Mon May  1 15:27:56 2023
+Car 6 is riding Passenger 42
+Car 3 accepts Passenger 13's request
+Passenger 13 started riding at Mon May  1 15:27:56 2023
+Car 3 is riding Passenger 13
+Car 13 accepts Passenger 11's request
+Passenger 11 started riding at Mon May  1 15:27:56 2023
+Car 13 is riding Passenger 11
+Car 9 accepts Passenger 21's request
+Passenger 21 started riding at Mon May  1 15:27:56 2023
+Car 9 is riding Passenger 21
+Car 1 accepts Passenger 16's request
+Passenger 16 started riding at Mon May  1 15:27:56 2023
+Car 1 is riding Passenger 16
+Car 2 accepts Passenger 22's request
+Passenger 22 started riding at Mon May  1 15:27:56 2023
+Car 2 is riding Passenger 22
+Car 17 finished Passenger 1's tour
+Car 16 finished Passenger 5's tour
+Car 18 finished Passenger 9's tour
+Car 19 finished Passenger 12's tour
+Car 20 finished Passenger 10's tour
+Passenger 1 finished riding at Mon May  1 15:27:56 2023
+Car 15 finished Passenger 19's tour
+Passenger 12 finished riding at Mon May  1 15:27:56 2023
+Passenger 1 exit the museum at Mon May  1 15:27:56 2023
+Passenger 12 exit the museum at Mon May  1 15:27:56 2023
+Passenger 19 finished riding at Mon May  1 15:27:56 2023
+Car 14 finished Passenger 14's tour
+Passenger 19 exit the museum at Mon May  1 15:27:56 2023
+Car 22 finished Passenger 7's tour
+Car 12 finished Passenger 26's tour
+Passenger 7 finished riding at Mon May  1 15:27:56 2023
+Car 11 finished Passenger 15's tour
+Car 7 finished Passenger 25's tour
+Passenger 26 finished riding at Mon May  1 15:27:56 2023
+Car 23 finished Passenger 4's tour
+Passenger 15 finished riding at Mon May  1 15:27:56 2023
+Passenger 5 finished riding at Mon May  1 15:27:56 2023
+Car 10 finished Passenger 6's tour
+Passenger 10 finished riding at Mon May  1 15:27:56 2023
+Passenger 4 finished riding at Mon May  1 15:27:56 2023
+Car 21 finished Passenger 18's tour
+Passenger 6 finished riding at Mon May  1 15:27:56 2023
+Car 25 finished Passenger 2's tour
+Passenger 25 finished riding at Mon May  1 15:27:56 2023
+Car 8 finished Passenger 23's tour
+Car 5 finished Passenger 29's tour
+Passenger 18 finished riding at Mon May  1 15:27:56 2023
+Car 6 finished Passenger 42's tour
+Car 24 finished Passenger 3's tour
+Passenger 2 finished riding at Mon May  1 09:57:56 2023
+Passenger 15 exit the museum at Mon May  1 15:27:56 2023
+Passenger 2 exit the museum at Mon May  1 15:27:56 2023
+Passenger 9 finished riding at Mon May  1 15:27:56 2023
+Car 3 finished Passenger 13's tour
+Passenger 5 exit the museum at Mon May  1 15:27:56 2023
+Car 4 finished Passenger 8's tour
+Passenger 14 finished riding at Mon May  1 15:27:56 2023
+Car 13 finished Passenger 11's tour
+Passenger 14 exit the museum at Mon May  1 15:27:56 2023
+Passenger 13 finished riding at Mon May  1 15:27:56 2023
+Car 9 finished Passenger 21's tour
+Passenger 26 exit the museum at Mon May  1 15:27:56 2023
+Passenger 25 exit the museum at Mon May  1 15:27:56 2023
+Passenger 18 exit the museum at Mon May  1 15:27:56 2023
+Passenger 8 finished riding at Mon May  1 15:27:56 2023
+Passenger 8 exit the museum at Mon May  1 15:27:56 2023
+Passenger 21 finished riding at Mon May  1 15:27:56 2023
+Passenger 21 exit the museum at Mon May  1 15:27:56 2023
+Car 1 finished Passenger 16's tour
+Passenger 29 finished riding at Mon May  1 15:27:56 2023
+Passenger 29 exit the museum at Mon May  1 15:27:56 2023
+Car 2 finished Passenger 22's tour
+Passenger 16 finished riding at Mon May  1 15:27:56 2023
+Passenger 16 exit the museum at Mon May  1 15:27:56 2023
+Passenger 23 finished riding at Mon May  1 15:27:56 2023
+Passenger 9 exit the museum at Mon May  1 15:27:56 2023
+Passenger 3 finished riding at Mon May  1 15:27:56 2023
+Passenger 3 exit the museum at Mon May  1 15:27:56 2023
+Passenger 10 exit the museum at Mon May  1 15:27:56 2023
+Passenger 4 exit the museum at Mon May  1 15:27:56 2023
+Passenger 6 exit the museum at Mon May  1 15:27:56 2023
+Passenger 13 exit the museum at Mon May  1 15:27:56 2023
+Passenger 11 finished riding at Mon May  1 15:27:56 2023
+Passenger 11 exit the museum at Mon May  1 15:27:56 2023
+Passenger 7 exit the museum at Mon May  1 15:27:56 2023
+Passenger 42 finished riding at Mon May  1 15:27:56 2023
+Passenger 42 exit the museum at Mon May  1 15:27:56 2023
+Passenger 22 finished riding at Mon May  1 15:27:56 2023
+Passenger 23 exit the museum at Mon May  1 15:27:56 2023
+Passenger 22 exit the museum at Mon May  1 15:27:56 2023
+Car 17 accepts Passenger 31's request
+Car 16 accepts Passenger 28's request
+Car 19 accepts Passenger 46's request
+Passenger 31 started riding at Mon May  1 15:27:56 2023
+Car 17 is riding Passenger 31
+Car 18 accepts Passenger 43's request
+Car 20 accepts Passenger 17's request
+Passenger 28 started riding at Mon May  1 15:27:56 2023
+Car 16 is riding Passenger 28
+Passenger 43 started riding at Mon May  1 15:27:56 2023
+Car 18 is riding Passenger 43
+Passenger 46 started riding at Mon May  1 15:27:56 2023
+Car 19 is riding Passenger 46
+Car 15 accepts Passenger 32's request
+Passenger 17 started riding at Mon May  1 15:27:56 2023
+Car 20 is riding Passenger 17
+Passenger 32 started riding at Mon May  1 15:27:56 2023
+Car 15 is riding Passenger 32
+Car 22 accepts Passenger 35's request
+Car 14 accepts Passenger 45's request
+Passenger 35 started riding at Mon May  1 15:27:56 2023
+Car 22 is riding Passenger 35
+Car 11 accepts Passenger 30's request
+Car 12 accepts Passenger 41's request
+Car 23 accepts Passenger 20's request
+Passenger 45 started riding at Mon May  1 15:27:56 2023
+Car 14 is riding Passenger 45
+Passenger 20 started riding at Mon May  1 15:27:56 2023
+Car 23 is riding Passenger 20
+Car 10 accepts Passenger 27's request
+Passenger 41 started riding at Mon May  1 15:27:56 2023
+Car 12 is riding Passenger 41
+Passenger 30 started riding at Mon May  1 15:27:56 2023
+Car 11 is riding Passenger 30
+Car 6 accepts Passenger 50's request
+Passenger 50 started riding at Mon May  1 15:27:56 2023
+Car 6 is riding Passenger 50
+Car 8 accepts Passenger 33's request
+Car 5 accepts Passenger 24's request
+Car 25 accepts Passenger 36's request
+Passenger 27 started riding at Mon May  1 15:27:56 2023
+Car 10 is riding Passenger 27
+Car 24 accepts Passenger 39's request
+Car 7 accepts Passenger 40's request
+Passenger 24 started riding at Mon May  1 15:27:56 2023
+Car 5 is riding Passenger 24
+Passenger 39 started riding at Mon May  1 15:27:56 2023
+Car 24 is riding Passenger 39
+Passenger 40 started riding at Mon May  1 15:27:56 2023
+Car 3 accepts Passenger 38's request
+Car 7 is riding Passenger 40
+Car 21 accepts Passenger 47's request
+Car 4 accepts Passenger 34's request
+Passenger 34 started riding at Mon May  1 15:27:56 2023
+Car 4 is riding Passenger 34
+Passenger 38 started riding at Mon May  1 15:27:56 2023
+Car 3 is riding Passenger 38
+Passenger 47 started riding at Mon May  1 15:27:56 2023
+Car 21 is riding Passenger 47
+Car 13 accepts Passenger 37's request
+Passenger 36 started riding at Mon May  1 15:27:56 2023
+Car 25 is riding Passenger 36
+Passenger 33 started riding at Mon May  1 15:27:56 2023
+Car 8 is riding Passenger 33
+Passenger 37 started riding at Mon May  1 15:27:56 2023
+Car 13 is riding Passenger 37
+Car 9 accepts Passenger 44's request
+Passenger 44 started riding at Mon May  1 15:27:56 2023
+Car 9 is riding Passenger 44
+Car 1 accepts Passenger 48's request
+Passenger 48 started riding at Mon May  1 15:27:56 2023
+Car 1 is riding Passenger 48
+Car 2 accepts Passenger 49's request
+Passenger 49 started riding at Mon May  1 15:27:56 2023
+Car 2 is riding Passenger 49
+Car 17 finished Passenger 31's tour
+Car 16 finished Passenger 28's tour
+Car 19 finished Passenger 46's tour
+Car 18 finished Passenger 43's tour
+Passenger 28 finished riding at Mon May  1 15:27:59 2023
+Car 15 finished Passenger 32's tour
+Car 20 finished Passenger 17's tour
+Car 22 finished Passenger 35's tour
+Passenger 31 finished riding at Mon May  1 15:27:59 2023
+Passenger 43 finished riding at Mon May  1 15:27:59 2023
+Passenger 43 exit the museum at Mon May  1 15:27:59 2023
+Car 23 finished Passenger 20's tour
+Passenger 28 exit the museum at Mon May  1 15:27:59 2023
+Car 14 finished Passenger 45's tour
+Passenger 17 finished riding at Mon May  1 15:27:59 2023
+Passenger 45 finished riding at Mon May  1 15:27:59 2023
+Passenger 45 exit the museum at Mon May  1 15:27:59 2023
+Car 12 finished Passenger 41's tour
+Passenger 35 finished riding at Mon May  1 15:27:59 2023
+Passenger 35 exit the museum at Mon May  1 15:27:59 2023
+Car 11 finished Passenger 30's tour
+Car 10 finished Passenger 27's tour
+Car 5 finished Passenger 24's tour
+Car 24 finished Passenger 39's tour
+Passenger 31 exit the museum at Mon May  1 15:27:59 2023
+Car 6 finished Passenger 50's tour
+Passenger 27 finished riding at Mon May  1 15:27:59 2023
+Passenger 27 exit the museum at Mon May  1 15:27:59 2023
+Car 7 finished Passenger 40's tour
+Passenger 20 finished riding at Mon May  1 15:27:59 2023
+Passenger 20 exit the museum at Mon May  1 15:27:59 2023
+Car 4 finished Passenger 34's tour
+Car 21 finished Passenger 47's tour
+Car 3 finished Passenger 38's tour
+Car 25 finished Passenger 36's tour
+Car 8 finished Passenger 33's tour
+Car 13 finished Passenger 37's tour
+Passenger 17 exit the museum at Mon May  1 15:27:59 2023
+Passenger 30 finished riding at Mon May  1 15:27:59 2023
+Passenger 30 exit the museum at Mon May  1 15:27:59 2023
+Passenger 37 finished riding at Mon May  1 15:27:59 2023
+Car 1 finished Passenger 48's tour
+Car 9 finished Passenger 44's tour
+Passenger 37 exit the museum at Mon May  1 15:27:59 2023
+Passenger 36 finished riding at Mon May  1 15:27:59 2023
+Passenger 46 finished riding at Mon May  1 15:27:59 2023
+Passenger 44 finished riding at Mon May  1 15:27:59 2023
+Car 2 finished Passenger 49's tour
+Passenger 44 exit the museum at Mon May  1 15:27:59 2023
+Passenger 50 finished riding at Mon May  1 15:27:59 2023
+Passenger 49 finished riding at Mon May  1 15:27:59 2023
+Passenger 40 finished riding at Mon May  1 15:27:59 2023
+Passenger 48 finished riding at Mon May  1 15:27:59 2023
+Passenger 34 finished riding at Mon May  1 15:27:59 2023
+Passenger 34 exit the museum at Mon May  1 15:27:59 2023
+Passenger 47 finished riding at Mon May  1 15:27:59 2023
+Passenger 47 exit the museum at Mon May  1 15:27:59 2023
+Passenger 38 finished riding at Mon May  1 15:27:59 2023
+Passenger 38 exit the museum at Mon May  1 15:27:59 2023
+Passenger 33 finished riding at Mon May  1 15:27:59 2023
+Passenger 33 exit the museum at Mon May  1 15:27:59 2023
+Passenger 39 finished riding at Mon May  1 15:27:59 2023
+Passenger 39 exit the museum at Mon May  1 15:27:59 2023
+Passenger 36 exit the museum at Mon May  1 15:27:59 2023
+Passenger 46 exit the museum at Mon May  1 15:27:59 2023
+Passenger 24 finished riding at Mon May  1 15:27:59 2023
+Passenger 24 exit the museum at Mon May  1 15:27:59 2023
+Passenger 50 exit the museum at Mon May  1 15:27:59 2023
+Passenger 49 exit the museum at Mon May  1 15:27:59 2023
+Passenger 40 exit the museum at Mon May  1 15:27:59 2023
+Passenger 48 exit the museum at Mon May  1 15:27:59 2023
+Passenger 32 finished riding at Mon May  1 15:27:59 2023
+Passenger 32 exit the museum at Mon May  1 15:27:59 2023
+Passenger 41 finished riding at Mon May  1 15:27:59 2023
+Passenger 41 exit the museum at Mon May  1 15:27:59 2023

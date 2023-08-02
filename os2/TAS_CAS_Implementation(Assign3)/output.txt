@@ -1,0 +1,300 @@
+0th CS Request at  ns by thread 3
+0th CS Entry at 618ns by thread 3
+0th CS Request at €ns by thread 2
+0th CS Exit at 710ns by thread 3
+0th CS Entry at 712ns by thread 2
+0th CS Exit at 776ns by thread 2
+0th CS Request at €ns by thread 5
+0th CS Entry at 805ns by thread 5
+0th CS Exit at 875ns by thread 5
+0th CS Request at €ns by thread 4
+0th CS Entry at 906ns by thread 4
+1th CS Request at €ns by thread 5
+0th CS Exit at 972ns by thread 4
+1th CS Entry at 973ns by thread 5
+1th CS Exit at 1029ns by thread 5
+0th CS Request at €ns by thread 7
+0th CS Entry at 1068ns by thread 7
+2th CS Request at €ns by thread 5
+0th CS Exit at 1131ns by thread 7
+2th CS Entry at 1131ns by thread 5
+0th CS Request at €ns by thread 1
+2th CS Exit at 1187ns by thread 5
+0th CS Entry at 1189ns by thread 1
+1th CS Request at €ns by thread 7
+3th CS Request at €ns by thread 5
+0th CS Exit at 1253ns by thread 1
+1th CS Entry at 1254ns by thread 7
+1th CS Exit at 1310ns by thread 7
+3th CS Entry at 1311ns by thread 5
+0th CS Request at €ns by thread 6
+0th CS Request at €ns by thread 8
+0th CS Request at €ns by thread 10
+3th CS Exit at 1459ns by thread 5
+0th CS Entry at 1462ns by thread 8
+0th CS Request at €ns by thread 9
+1th CS Request at  ns by thread 3
+1th CS Request at €ns by thread 2
+0th CS Exit at 1519ns by thread 8
+1th CS Entry at 1520ns by thread 2
+4th CS Request at €ns by thread 5
+1th CS Request at €ns by thread 4
+1th CS Request at €ns by thread 1
+2th CS Request at €ns by thread 7
+1th CS Request at €ns by thread 8
+1th CS Exit at 1620ns by thread 2
+1th CS Entry at 1626ns by thread 8
+1th CS Exit at 1682ns by thread 8
+1th CS Entry at 1683ns by thread 1
+2th CS Request at €ns by thread 2
+2th CS Request at €ns by thread 8
+1th CS Exit at 1746ns by thread 1
+0th CS Entry at 1748ns by thread 9
+0th CS Exit at 1810ns by thread 9
+2th CS Request at €ns by thread 1
+2th CS Entry at 1812ns by thread 2
+2th CS Exit at 1876ns by thread 2
+2th CS Entry at 1878ns by thread 1
+1th CS Request at €ns by thread 9
+2th CS Exit at 1938ns by thread 1
+1th CS Entry at 1941ns by thread 9
+3th CS Request at €ns by thread 2
+1th CS Exit at 1999ns by thread 9
+2th CS Entry at 2002ns by thread 7
+3th CS Request at €ns by thread 1
+2th CS Exit at 2069ns by thread 7
+0th CS Entry at 2070ns by thread 10
+2th CS Request at €ns by thread 9
+3th CS Request at €ns by thread 7
+0th CS Exit at 2133ns by thread 10
+3th CS Entry at 2136ns by thread 7
+3th CS Exit at 2193ns by thread 7
+3th CS Entry at 2195ns by thread 2
+1th CS Request at €ns by thread 10
+3th CS Exit at 2256ns by thread 2
+2th CS Entry at 2260ns by thread 8
+4th CS Request at €ns by thread 7
+2th CS Exit at 2304ns by thread 8
+1th CS Entry at 2305ns by thread 10
+4th CS Request at €ns by thread 2
+3th CS Request at €ns by thread 8
+1th CS Exit at 2380ns by thread 10
+1th CS Entry at 2390ns by thread 3
+1th CS Exit at 2462ns by thread 3
+4th CS Entry at 2464ns by thread 7
+2th CS Request at €ns by thread 10
+2th CS Request at  ns by thread 3
+4th CS Exit at 5280ns by thread 7
+2th CS Entry at 5282ns by thread 9
+2th CS Exit at 5335ns by thread 9
+3th CS Entry at 5336ns by thread 1
+5th CS Request at €ns by thread 7
+3th CS Exit at 5390ns by thread 1
+0th CS Entry at 5391ns by thread 6
+3th CS Request at €ns by thread 9
+0th CS Exit at 5447ns by thread 6
+2th CS Entry at 5448ns by thread 3
+4th CS Request at €ns by thread 1
+2th CS Exit at 5502ns by thread 3
+3th CS Entry at 5503ns by thread 8
+1th CS Request at €ns by thread 6
+3th CS Exit at 5560ns by thread 8
+2th CS Entry at 5561ns by thread 10
+3th CS Request at  ns by thread 3
+2th CS Exit at 5615ns by thread 10
+3th CS Entry at 5616ns by thread 3
+4th CS Request at €ns by thread 8
+3th CS Exit at 5668ns by thread 3
+5th CS Entry at 5669ns by thread 7
+3th CS Request at €ns by thread 10
+5th CS Exit at 5725ns by thread 7
+4th CS Request at  ns by thread 3
+3th CS Entry at 5726ns by thread 10
+3th CS Exit at 5782ns by thread 10
+6th CS Request at €ns by thread 7
+4th CS Entry at 5783ns by thread 5
+4th CS Exit at 5838ns by thread 5
+4th CS Entry at 5840ns by thread 1
+4th CS Request at €ns by thread 10
+5th CS Request at €ns by thread 5
+4th CS Exit at 6008ns by thread 1
+1th CS Entry at 6009ns by thread 6
+1th CS Exit at 6065ns by thread 6
+4th CS Entry at 6066ns by thread 2
+5th CS Request at €ns by thread 1
+4th CS Exit at 6123ns by thread 2
+3th CS Entry at 6123ns by thread 9
+2th CS Request at €ns by thread 6
+3th CS Exit at 6177ns by thread 9
+4th CS Entry at 6177ns by thread 3
+5th CS Request at €ns by thread 2
+4th CS Request at €ns by thread 9
+4th CS Exit at 6234ns by thread 3
+4th CS Entry at 6235ns by thread 10
+4th CS Exit at 6290ns by thread 10
+4th CS Entry at 6291ns by thread 8
+5th CS Request at  ns by thread 3
+4th CS Exit at 6343ns by thread 8
+6th CS Entry at 6344ns by thread 7
+5th CS Request at €ns by thread 10
+5th CS Request at €ns by thread 8
+6th CS Exit at 6397ns by thread 7
+2th CS Entry at 6398ns by thread 6
+2th CS Exit at 6451ns by thread 6
+5th CS Entry at 6452ns by thread 5
+7th CS Request at €ns by thread 7
+5th CS Exit at 6507ns by thread 5
+5th CS Entry at 6508ns by thread 10
+3th CS Request at €ns by thread 6
+5th CS Exit at 6560ns by thread 10
+5th CS Entry at 6561ns by thread 8
+6th CS Request at €ns by thread 5
+5th CS Exit at 6612ns by thread 8
+3th CS Entry at 6613ns by thread 6
+6th CS Request at €ns by thread 10
+6th CS Request at €ns by thread 8
+3th CS Exit at 6674ns by thread 6
+6th CS Entry at 6676ns by thread 5
+6th CS Exit at 6739ns by thread 5
+7th CS Entry at 6745ns by thread 7
+4th CS Request at €ns by thread 6
+7th CS Exit at 6813ns by thread 7
+4th CS Entry at 6817ns by thread 6
+7th CS Request at €ns by thread 5
+4th CS Exit at 6876ns by thread 6
+7th CS Entry at 6879ns by thread 5
+8th CS Request at €ns by thread 7
+7th CS Exit at 6941ns by thread 5
+5th CS Entry at 6947ns by thread 2
+5th CS Request at €ns by thread 6
+5th CS Exit at 7013ns by thread 2
+5th CS Entry at 7015ns by thread 1
+8th CS Request at €ns by thread 5
+5th CS Exit at 7077ns by thread 1
+6th CS Entry at 7086ns by thread 10
+6th CS Request at €ns by thread 2
+6th CS Exit at 7144ns by thread 10
+6th CS Entry at 7145ns by thread 8
+6th CS Request at €ns by thread 1
+6th CS Exit at 7202ns by thread 8
+6th CS Entry at 7204ns by thread 2
+7th CS Request at €ns by thread 10
+7th CS Request at €ns by thread 8
+6th CS Exit at 7269ns by thread 2
+4th CS Entry at 7273ns by thread 9
+4th CS Exit at 7333ns by thread 9
+7th CS Entry at 7335ns by thread 10
+7th CS Request at €ns by thread 2
+7th CS Exit at 7392ns by thread 10
+7th CS Entry at 7394ns by thread 8
+5th CS Request at €ns by thread 9
+7th CS Exit at 7451ns by thread 8
+1th CS Entry at 7453ns by thread 4
+8th CS Request at €ns by thread 10
+8th CS Request at €ns by thread 8
+1th CS Exit at 7520ns by thread 4
+8th CS Entry at 7525ns by thread 8
+8th CS Exit at 7582ns by thread 8
+8th CS Entry at 7584ns by thread 10
+2th CS Request at €ns by thread 4
+8th CS Exit at 7641ns by thread 10
+6th CS Entry at 7643ns by thread 1
+9th CS Request at €ns by thread 8
+9th CS Request at €ns by thread 10
+6th CS Exit at 7705ns by thread 1
+9th CS Entry at 7710ns by thread 8
+9th CS Exit at 7763ns by thread 8
+8th CS Entry at 7764ns by thread 7
+7th CS Request at €ns by thread 1
+8th CS Exit at 7818ns by thread 7
+9th CS Entry at 7819ns by thread 10
+9th CS Exit at 7871ns by thread 10
+5th CS Entry at 7871ns by thread 9
+9th CS Request at €ns by thread 7
+5th CS Exit at 7925ns by thread 9
+7th CS Entry at 7926ns by thread 2
+7th CS Exit at 7978ns by thread 2
+9th CS Entry at 7979ns by thread 7
+6th CS Request at €ns by thread 9
+9th CS Exit at 8032ns by thread 7
+5th CS Entry at 8032ns by thread 6
+8th CS Request at €ns by thread 2
+5th CS Exit at 8085ns by thread 6
+5th CS Entry at 8085ns by thread 3
+6th CS Request at €ns by thread 6
+5th CS Exit at 8140ns by thread 3
+8th CS Entry at 8141ns by thread 2
+8th CS Exit at 8194ns by thread 2
+6th CS Entry at 8195ns by thread 9
+6th CS Request at  ns by thread 3
+6th CS Exit at 8248ns by thread 9
+8th CS Entry at 8248ns by thread 5
+9th CS Request at €ns by thread 2
+8th CS Exit at 8302ns by thread 5
+6th CS Entry at 8303ns by thread 6
+7th CS Request at €ns by thread 9
+6th CS Exit at 8356ns by thread 6
+7th CS Entry at 8394ns by thread 9
+9th CS Request at €ns by thread 5
+7th CS Exit at 8448ns by thread 9
+2th CS Entry at 8449ns by thread 4
+7th CS Request at €ns by thread 6
+2th CS Exit at 8503ns by thread 4
+9th CS Entry at 8505ns by thread 2
+8th CS Request at €ns by thread 9
+9th CS Exit at 8557ns by thread 2
+7th CS Entry at 8557ns by thread 6
+3th CS Request at €ns by thread 4
+7th CS Exit at 8609ns by thread 6
+3th CS Entry at 8609ns by thread 4
+8th CS Request at €ns by thread 6
+3th CS Exit at 8663ns by thread 4
+9th CS Entry at 8664ns by thread 5
+9th CS Exit at 8718ns by thread 5
+8th CS Entry at 8718ns by thread 9
+4th CS Request at €ns by thread 4
+8th CS Exit at 8771ns by thread 9
+8th CS Entry at 8771ns by thread 6
+8th CS Exit at 8823ns by thread 6
+4th CS Entry at 8824ns by thread 4
+9th CS Request at €ns by thread 9
+9th CS Request at €ns by thread 6
+4th CS Exit at 8877ns by thread 4
+9th CS Entry at 8878ns by thread 9
+9th CS Exit at 8930ns by thread 9
+9th CS Entry at 8930ns by thread 6
+5th CS Request at €ns by thread 4
+9th CS Exit at 8982ns by thread 6
+6th CS Entry at 8983ns by thread 3
+6th CS Exit at 9039ns by thread 3
+7th CS Entry at 9039ns by thread 1
+7th CS Exit at 9093ns by thread 1
+5th CS Entry at 9093ns by thread 4
+7th CS Request at  ns by thread 3
+5th CS Exit at 9147ns by thread 4
+7th CS Entry at 9147ns by thread 3
+8th CS Request at €ns by thread 1
+7th CS Exit at 9201ns by thread 3
+8th CS Entry at 9201ns by thread 1
+6th CS Request at €ns by thread 4
+8th CS Exit at 9255ns by thread 1
+6th CS Entry at 9255ns by thread 4
+8th CS Request at  ns by thread 3
+9th CS Request at €ns by thread 1
+6th CS Exit at 9321ns by thread 4
+8th CS Entry at 9323ns by thread 3
+8th CS Exit at 9376ns by thread 3
+9th CS Entry at 9376ns by thread 1
+7th CS Request at €ns by thread 4
+9th CS Exit at 9430ns by thread 1
+7th CS Entry at 9430ns by thread 4
+9th CS Request at  ns by thread 3
+7th CS Exit at 9482ns by thread 4
+9th CS Entry at 9482ns by thread 3
+9th CS Exit at 9534ns by thread 3
+8th CS Request at €ns by thread 4
+8th CS Entry at 9536ns by thread 4
+8th CS Exit at 9588ns by thread 4
+9th CS Request at €ns by thread 4
+9th CS Entry at 9660ns by thread 4
+9th CS Exit at 9713ns by thread 4
