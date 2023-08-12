@@ -1,0 +1,2152 @@
+K thread created : - 168
+Family 1 becomes hungry at 230
+Family 1 eats from the Pot at 233
+Family 4 becomes hungry at 311
+Family 4 eats from the Pot at 317
+Family 5 becomes hungry at 338
+Family 5 eats from the Pot at 339
+Family 6 becomes hungry at 358
+Family 6 eats from the Pot at 359
+Family 3 becomes hungry at 390
+Family 3 eats from the Pot at 399
+Family 7 becomes hungry at 411
+Family 7 eats from the Pot at 415
+Family 8 becomes hungry at 439
+Family 8 eats from the Pot at 443
+Family 4 becomes hungry at 445
+Family 4 eats from the Pot at 446
+Family 1 becomes hungry at 453
+Family 1 eats from the Pot at 459
+Family 9 becomes hungry at 454
+Family 9 eats from the Pot at 466
+Family 5 becomes hungry at 474
+Family 6 becomes hungry at 492
+Family 11 becomes hungry at 509
+Family 9 becomes hungry at 529
+Family 10 becomes hungry at 534
+Family 3 becomes hungry at 536
+Family 7 becomes hungry at 562
+Family 4 becomes hungry at 570
+Family 13 becomes hungry at 574
+Family 1 becomes hungry at 594
+Family 14 becomes hungry at 596
+vendor refills the ice-cream 1 times at 599
+Family 12 becomes hungry at 623
+Family 2 becomes hungry at 390
+Family 5 eats from the Pot at 637
+Family 17 becomes hungry at 693
+Family 16 becomes hungry at 694
+Family 17 eats from the Pot at 696
+Family 16 eats from the Pot at 698
+Family 15 becomes hungry at 644
+Family 3 eats from the Pot at 713
+Family 9 eats from the Pot at 712
+Family 6 eats from the Pot at 651
+Family 7 eats from the Pot at 722
+Family 18 becomes hungry at 724
+Family 4 eats from the Pot at 728
+Family 8 becomes hungry at 652
+Family 18 eats from the Pot at 744
+Family 11 eats from the Pot at 664
+Family 20 becomes hungry at 782
+Family 19 becomes hungry at 784
+Family 5 becomes hungry at 785
+Family 17 becomes hungry at 793
+Family 16 becomes hungry at 816
+Family 7 becomes hungry at 819
+Family 21 becomes hungry at 823
+Family 3 becomes hungry at 843
+Family 6 becomes hungry at 844
+Family 4 becomes hungry at 845
+Family 22 becomes hungry at 847
+Family 11 becomes hungry at 848
+vendor refills the ice-cream 2 times at 853
+Family 18 becomes hungry at 863
+Family 1 eats from the Pot at 864
+Family 18 eats from the Pot at 866
+Family 12 eats from the Pot at 871
+Family 13 eats from the Pot at 879
+Family 2 eats from the Pot at 879
+Family 8 eats from the Pot at 891
+Family 23 becomes hungry at 892
+Family 23 eats from the Pot at 895
+Family 10 eats from the Pot at 899
+Family 14 eats from the Pot at 902
+Family 20 eats from the Pot at 906
+Family 9 becomes hungry at 911
+Family 24 becomes hungry at 915
+Family 2 becomes hungry at 964
+Family 25 becomes hungry at 969
+Family 26 becomes hungry at 981
+Family 1 becomes hungry at 981
+Family 12 becomes hungry at 987
+Family 13 becomes hungry at 995
+Family 20 becomes hungry at 997
+Family 8 becomes hungry at 1010
+Family 27 becomes hungry at 1018
+Family 14 becomes hungry at 1019
+vendor refills the ice-cream 3 times at 1023
+Family 28 becomes hungry at 1025
+Family 10 becomes hungry at 1031
+Family 19 eats from the Pot at 1033
+Family 10 eats from the Pot at 1037
+Family 17 eats from the Pot at 1040
+Family 16 eats from the Pot at 1043
+Family 18 becomes hungry at 1047
+Family 7 eats from the Pot at 1049
+Family 21 eats from the Pot at 1050
+Family 18 eats from the Pot at 1055
+Family 3 eats from the Pot at 1057
+Family 6 eats from the Pot at 1061
+Family 23 becomes hungry at 1068
+Family 30 becomes hungry at 1070
+Family 22 eats from the Pot at 1071
+Family 29 becomes hungry at 1110
+Family 17 becomes hungry at 1127
+Family 31 becomes hungry at 1128
+Family 19 becomes hungry at 1151
+Family 10 becomes hungry at 1153
+Family 32 becomes hungry at 1156
+Family 7 becomes hungry at 1161
+Family 21 becomes hungry at 1165
+Family 16 becomes hungry at 1165
+Family 22 becomes hungry at 1168
+Family 3 becomes hungry at 1174
+Family 6 becomes hungry at 1176
+Family 33 becomes hungry at 1181
+Family 18 becomes hungry at 1182
+Family 34 becomes hungry at 1203
+vendor refills the ice-cream 4 times at 1211
+Family 11 eats from the Pot at 1220
+Family 9 eats from the Pot at 1228
+Family 24 eats from the Pot at 1234
+Family 35 becomes hungry at 1239
+Family 35 eats from the Pot at 1241
+Family 15 eats from the Pot at 1242
+Family 11 becomes hungry at 1297
+Family 25 eats from the Pot at 1248
+Family 2 eats from the Pot at 1250
+Family 37 becomes hungry at 1317
+Family 26 eats from the Pot at 1258
+Family 1 eats from the Pot at 1259
+Family 12 eats from the Pot at 1265
+Family 9 becomes hungry at 1348
+Family 39 becomes hungry at 1349
+Family 36 becomes hungry at 1279
+Family 24 becomes hungry at 1370
+Family 38 becomes hungry at 1376
+Family 15 becomes hungry at 1390
+Family 35 becomes hungry at 1403
+Family 2 becomes hungry at 1407
+vendor refills the ice-cream 5 times at 1413
+Family 25 becomes hungry at 1414
+Family 13 eats from the Pot at 1424
+Family 41 becomes hungry at 1424
+Family 41 eats from the Pot at 1430
+Family 14 eats from the Pot at 1440
+Family 27 eats from the Pot at 1440
+Family 42 becomes hungry at 1446
+Family 26 becomes hungry at 1449
+Family 42 eats from the Pot at 1450
+Family 40 becomes hungry at 1452
+Family 23 eats from the Pot at 1453
+Family 40 eats from the Pot at 1456
+Family 26 eats from the Pot at 1456
+Family 8 eats from the Pot at 1463
+Family 1 becomes hungry at 1472
+Family 12 becomes hungry at 1472
+Family 4 eats from the Pot at 1472
+Family 43 becomes hungry at 1497
+Family 13 becomes hungry at 1511
+Family 44 becomes hungry at 1518
+Family 41 becomes hungry at 1522
+Family 23 becomes hungry at 1522
+Family 45 becomes hungry at 1547
+Family 14 becomes hungry at 1557
+Family 27 becomes hungry at 1565
+Family 46 becomes hungry at 1566
+Family 26 becomes hungry at 1574
+vendor refills the ice-cream 6 times at 1575
+Family 42 becomes hungry at 1575
+Family 40 becomes hungry at 1578
+Family 28 eats from the Pot at 1585
+Family 47 becomes hungry at 1591
+Family 4 becomes hungry at 1602
+Family 31 eats from the Pot at 1603
+Family 4 eats from the Pot at 1607
+Family 47 eats from the Pot at 1608
+Family 8 becomes hungry at 1601
+Family 8 eats from the Pot at 1613
+Family 32 eats from the Pot at 1617
+Family 10 eats from the Pot at 1617
+Family 19 eats from the Pot at 1619
+Family 21 eats from the Pot at 1627
+Family 7 eats from the Pot at 1628
+Family 48 becomes hungry at 1637
+Family 28 becomes hungry at 1662
+Family 49 becomes hungry at 1678
+Family 4 becomes hungry at 1697
+Family 50 becomes hungry at 1700
+Family 31 becomes hungry at 1720
+Family 32 becomes hungry at 1723
+Family 21 becomes hungry at 1728
+Family 8 becomes hungry at 1730
+Family 47 becomes hungry at 1732
+vendor refills the ice-cream 7 times at 1736
+Family 10 becomes hungry at 1740
+Family 7 becomes hungry at 1744
+Family 16 eats from the Pot at 1747
+Family 19 becomes hungry at 1747
+Family 19 eats from the Pot at 1749
+Family 33 eats from the Pot at 1756
+Family 18 eats from the Pot at 1756
+Family 34 eats from the Pot at 1762
+Family 20 eats from the Pot at 1763
+Family 11 eats from the Pot at 1768
+Family 37 eats from the Pot at 1770
+Family 39 eats from the Pot at 1779
+Family 9 eats from the Pot at 1780
+Family 34 becomes hungry at 1814
+Family 39 becomes hungry at 1834
+Family 16 becomes hungry at 1860
+Family 33 becomes hungry at 1862
+Family 19 becomes hungry at 1862
+Family 18 becomes hungry at 1873
+Family 20 becomes hungry at 1881
+Family 11 becomes hungry at 1883
+Family 9 becomes hungry at 1885
+Family 37 becomes hungry at 1888
+vendor refills the ice-cream 8 times at 1896
+Family 24 eats from the Pot at 1905
+Family 36 eats from the Pot at 1910
+Family 38 eats from the Pot at 1911
+Family 35 eats from the Pot at 1917
+Family 2 eats from the Pot at 1924
+Family 25 eats from the Pot at 1925
+Family 30 eats from the Pot at 1933
+Family 15 eats from the Pot at 1935
+Family 29 eats from the Pot at 1940
+Family 17 eats from the Pot at 1944
+Family 17 becomes hungry at 1986
+Family 24 becomes hungry at 2017
+Family 38 becomes hungry at 2025
+Family 15 becomes hungry at 2028
+Family 36 becomes hungry at 2029
+Family 25 becomes hungry at 2029
+Family 29 becomes hungry at 2031
+vendor refills the ice-cream 9 times at 2032
+Family 35 becomes hungry at 2035
+Family 12 eats from the Pot at 2041
+Family 30 becomes hungry at 2031
+Family 2 becomes hungry at 2048
+Family 30 eats from the Pot at 2049
+Family 2 eats from the Pot at 2050
+Family 13 eats from the Pot at 2057
+Family 5 eats from the Pot at 2059
+Family 44 eats from the Pot at 2064
+Family 12 becomes hungry at 2158
+Family 43 eats from the Pot at 2068
+Family 41 eats from the Pot at 2068
+Family 23 eats from the Pot at 2071
+Family 45 eats from the Pot at 2076
+vendor refills the ice-cream 10 times at 2207
+Family 14 eats from the Pot at 2215
+Family 30 becomes hungry at 2222
+Family 26 eats from the Pot at 2223
+Family 13 becomes hungry at 2223
+Family 2 becomes hungry at 2224
+Family 30 eats from the Pot at 2225
+Family 13 eats from the Pot at 2227
+Family 2 eats from the Pot at 2229
+Family 42 eats from the Pot at 2231
+Family 40 eats from the Pot at 2234
+Family 22 eats from the Pot at 2235
+Family 3 eats from the Pot at 2239
+Family 6 eats from the Pot at 2240
+Family 5 becomes hungry at 2257
+Family 44 becomes hungry at 2260
+Family 6 becomes hungry at 2276
+Family 45 becomes hungry at 2281
+Family 43 becomes hungry at 2280
+Family 42 becomes hungry at 2285
+Family 40 becomes hungry at 2289
+Family 23 becomes hungry at 2289
+Family 26 becomes hungry at 2294
+Family 41 becomes hungry at 2299
+Family 14 becomes hungry at 2330
+Family 13 becomes hungry at 2343
+Family 22 becomes hungry at 2344
+Family 3 becomes hungry at 2346
+vendor refills the ice-cream 11 times at 2347
+Family 2 becomes hungry at 2349
+Family 30 becomes hungry at 2351
+Family 48 eats from the Pot at 2360
+Family 50 eats from the Pot at 2366
+Family 31 eats from the Pot at 2372
+Family 32 eats from the Pot at 2378
+Family 21 eats from the Pot at 2384
+Family 8 eats from the Pot at 2391
+Family 47 eats from the Pot at 2398
+Family 10 eats from the Pot at 2404
+Family 7 eats from the Pot at 2409
+Family 34 eats from the Pot at 2415
+Family 10 becomes hungry at 2437
+Family 21 becomes hungry at 2440
+Family 50 becomes hungry at 2474
+Family 48 becomes hungry at 2476
+Family 8 becomes hungry at 2479
+vendor refills the ice-cream 12 times at 2481
+Family 31 becomes hungry at 2485
+Family 39 eats from the Pot at 2491
+Family 16 eats from the Pot at 2496
+Family 32 becomes hungry at 2497
+Family 47 becomes hungry at 2498
+Family 32 eats from the Pot at 2500
+Family 47 eats from the Pot at 2501
+Family 33 eats from the Pot at 2504
+Family 19 eats from the Pot at 2506
+Family 18 eats from the Pot at 2508
+Family 20 eats from the Pot at 2513
+Family 9 eats from the Pot at 2514
+Family 11 eats from the Pot at 2514
+Family 7 becomes hungry at 2524
+Family 34 becomes hungry at 2528
+Family 33 becomes hungry at 2557
+Family 39 becomes hungry at 2603
+Family 11 becomes hungry at 2609
+Family 16 becomes hungry at 2611
+Family 32 becomes hungry at 2613
+Family 47 becomes hungry at 2614
+vendor refills the ice-cream 13 times at 2614
+Family 19 becomes hungry at 2617
+Family 37 eats from the Pot at 2625
+Family 18 becomes hungry at 2627
+Family 18 eats from the Pot at 2629
+Family 20 becomes hungry at 2630
+Family 24 eats from the Pot at 2631
+Family 9 becomes hungry at 2631
+Family 20 eats from the Pot at 2633
+Family 9 eats from the Pot at 2633
+Family 38 eats from the Pot at 2635
+Family 15 eats from the Pot at 2638
+Family 36 eats from the Pot at 2640
+Family 35 eats from the Pot at 2641
+Family 29 eats from the Pot at 2641
+Family 35 becomes hungry at 2709
+Family 37 becomes hungry at 2740
+Family 18 becomes hungry at 2742
+Family 24 becomes hungry at 2743
+Family 20 becomes hungry at 2746
+Family 38 becomes hungry at 2747
+Family 9 becomes hungry at 2748
+Family 15 becomes hungry at 2750
+Family 36 becomes hungry at 2755
+Family 29 becomes hungry at 2765
+vendor refills the ice-cream 14 times at 2767
+Family 25 eats from the Pot at 2776
+Family 28 eats from the Pot at 2782
+Family 49 eats from the Pot at 2788
+Family 4 eats from the Pot at 2795
+Family 5 eats from the Pot at 2800
+Family 44 eats from the Pot at 2807
+Family 6 eats from the Pot at 2814
+Family 45 eats from the Pot at 2821
+Family 43 eats from the Pot at 2827
+Family 42 eats from the Pot at 2835
+Family 42 becomes hungry at 2884
+Family 25 becomes hungry at 2889
+Family 43 becomes hungry at 2893
+Family 28 becomes hungry at 2896
+Family 49 becomes hungry at 2902
+Family 4 becomes hungry at 2909
+Family 44 becomes hungry at 2935
+Family 6 becomes hungry at 2942
+Family 5 becomes hungry at 2946
+Family 45 becomes hungry at 2947
+vendor refills the ice-cream 15 times at 2961
+Family 40 eats from the Pot at 3196
+Family 23 eats from the Pot at 3203
+Family 26 eats from the Pot at 3210
+Family 41 eats from the Pot at 3216
+Family 14 eats from the Pot at 3221
+Family 13 eats from the Pot at 3228
+Family 22 eats from the Pot at 3233
+Family 3 eats from the Pot at 3239
+Family 2 eats from the Pot at 3246
+Family 30 eats from the Pot at 3252
+Family 41 becomes hungry at 3288
+Family 3 becomes hungry at 3307
+Family 40 becomes hungry at 3308
+Family 14 becomes hungry at 3311
+Family 23 becomes hungry at 3316
+Family 26 becomes hungry at 3323
+Family 13 becomes hungry at 3341
+Family 22 becomes hungry at 3344
+vendor refills the ice-cream 16 times at 3346
+Family 10 eats from the Pot at 3354
+Family 2 becomes hungry at 3360
+Family 21 eats from the Pot at 3362
+Family 2 eats from the Pot at 3363
+Family 50 eats from the Pot at 3368
+Family 48 eats from the Pot at 3369
+Family 8 eats from the Pot at 3374
+Family 31 eats from the Pot at 3374
+Family 17 eats from the Pot at 3380
+Family 7 eats from the Pot at 3385
+Family 34 eats from the Pot at 3390
+Family 30 becomes hungry at 3417
+Family 34 becomes hungry at 3443
+Family 10 becomes hungry at 3468
+Family 48 becomes hungry at 3472
+Family 2 becomes hungry at 3475
+Family 21 becomes hungry at 3477
+Family 50 becomes hungry at 3479
+Family 31 becomes hungry at 3485
+Family 8 becomes hungry at 3487
+Family 7 becomes hungry at 3489
+Family 17 becomes hungry at 3491
+vendor refills the ice-cream 17 times at 3495
+Family 33 eats from the Pot at 3502
+Family 39 eats from the Pot at 3507
+Family 11 eats from the Pot at 3512
+Family 16 eats from the Pot at 3518
+Family 32 eats from the Pot at 3522
+Family 47 eats from the Pot at 3529
+Family 19 eats from the Pot at 3534
+Family 12 eats from the Pot at 3541
+Family 46 eats from the Pot at 3547
+Family 27 eats from the Pot at 3553
+Family 39 becomes hungry at 3606
+Family 33 becomes hungry at 3613
+Family 11 becomes hungry at 3617
+Family 16 becomes hungry at 3629
+vendor refills the ice-cream 18 times at 3631
+Family 32 becomes hungry at 3632
+Family 35 eats from the Pot at 3639
+Family 47 becomes hungry at 3642
+Family 47 eats from the Pot at 3644
+Family 37 eats from the Pot at 3645
+Family 19 becomes hungry at 3646
+Family 19 eats from the Pot at 3648
+Family 18 eats from the Pot at 3650
+Family 12 becomes hungry at 3652
+Family 24 eats from the Pot at 3653
+Family 20 eats from the Pot at 3655
+Family 12 eats from the Pot at 3655
+Family 38 eats from the Pot at 3655
+Family 9 eats from the Pot at 3661
+Family 46 becomes hungry at 3671
+Family 37 becomes hungry at 3700
+Family 27 becomes hungry at 3701
+Family 47 becomes hungry at 3707
+Family 9 becomes hungry at 3715
+Family 35 becomes hungry at 3753
+Family 18 becomes hungry at 3758
+Family 19 becomes hungry at 3761
+Family 20 becomes hungry at 3766
+vendor refills the ice-cream 19 times at 3767
+Family 12 becomes hungry at 3768
+Family 24 becomes hungry at 3769
+Family 38 becomes hungry at 3774
+Family 15 eats from the Pot at 3775
+Family 38 eats from the Pot at 3778
+Family 25 eats from the Pot at 3782
+Family 43 eats from the Pot at 3783
+Family 28 eats from the Pot at 3787
+Family 49 eats from the Pot at 3790
+Family 4 eats from the Pot at 3793
+Family 44 eats from the Pot at 3795
+Family 6 eats from the Pot at 3798
+Family 5 eats from the Pot at 3801
+Family 44 becomes hungry at 3861
+Family 15 becomes hungry at 3885
+Family 38 becomes hungry at 3893
+Family 43 becomes hungry at 3894
+Family 25 becomes hungry at 3895
+Family 4 becomes hungry at 3897
+vendor refills the ice-cream 20 times at 3899
+Family 49 becomes hungry at 3902
+Family 28 becomes hungry at 3905
+Family 45 eats from the Pot at 3906
+Family 28 eats from the Pot at 3907
+Family 6 becomes hungry at 3911
+Family 3 eats from the Pot at 3913
+Family 6 eats from the Pot at 3913
+Family 5 becomes hungry at 3914
+Family 5 eats from the Pot at 3917
+Family 14 eats from the Pot at 3918
+Family 40 eats from the Pot at 3919
+Family 23 eats from the Pot at 3921
+Family 13 eats from the Pot at 3924
+Family 26 eats from the Pot at 3926
+Family 45 becomes hungry at 4025
+Family 40 becomes hungry at 4025
+vendor refills the ice-cream 21 times at 4027
+Family 5 becomes hungry at 4029
+Family 6 becomes hungry at 4030
+Family 3 becomes hungry at 4032
+Family 22 eats from the Pot at 4037
+Family 28 becomes hungry at 4037
+Family 28 eats from the Pot at 4039
+Family 48 eats from the Pot at 4046
+Family 10 eats from the Pot at 4052
+Family 2 eats from the Pot at 4053
+Family 14 becomes hungry at 4057
+Family 50 eats from the Pot at 4059
+Family 31 eats from the Pot at 4065
+Family 8 eats from the Pot at 4066
+Family 7 eats from the Pot at 4071
+Family 21 eats from the Pot at 4073
+Family 23 becomes hungry at 4079
+Family 13 becomes hungry at 4082
+Family 26 becomes hungry at 4091
+Family 8 becomes hungry at 4097
+Family 7 becomes hungry at 4143
+Family 22 becomes hungry at 4150
+Family 28 becomes hungry at 4151
+Family 48 becomes hungry at 4160
+Family 21 becomes hungry at 4162
+Family 10 becomes hungry at 4163
+Family 2 becomes hungry at 4168
+Family 50 becomes hungry at 4170
+Family 31 becomes hungry at 4176
+vendor refills the ice-cream 22 times at 4197
+Family 17 eats from the Pot at 4204
+Family 33 eats from the Pot at 4210
+Family 11 eats from the Pot at 4215
+Family 16 eats from the Pot at 4220
+Family 32 eats from the Pot at 4225
+Family 29 eats from the Pot at 4230
+Family 36 eats from the Pot at 4235
+Family 42 eats from the Pot at 4241
+Family 46 eats from the Pot at 4248
+Family 37 eats from the Pot at 4253
+Family 33 becomes hungry at 4294
+Family 17 becomes hungry at 4318
+Family 16 becomes hungry at 4321
+Family 11 becomes hungry at 4325
+Family 32 becomes hungry at 4335
+Family 29 becomes hungry at 4343
+vendor refills the ice-cream 23 times at 4346
+Family 36 becomes hungry at 4347
+Family 37 becomes hungry at 4350
+Family 27 eats from the Pot at 4355
+Family 42 becomes hungry at 4356
+Family 42 eats from the Pot at 4358
+Family 47 eats from the Pot at 4360
+Family 46 becomes hungry at 4360
+Family 9 eats from the Pot at 4364
+Family 46 eats from the Pot at 4365
+Family 35 eats from the Pot at 4367
+Family 19 eats from the Pot at 4370
+Family 18 eats from the Pot at 4375
+Family 12 eats from the Pot at 4377
+Family 24 eats from the Pot at 4381
+vendor refills the ice-cream 24 times at 4430
+Family 41 eats from the Pot at 4439
+Family 15 eats from the Pot at 4444
+Family 38 eats from the Pot at 4449
+Family 43 eats from the Pot at 4455
+Family 25 eats from the Pot at 4462
+Family 27 becomes hungry at 4466
+Family 4 eats from the Pot at 4471
+Family 47 becomes hungry at 4473
+Family 27 eats from the Pot at 4473
+Family 47 eats from the Pot at 4477
+Family 12 becomes hungry at 4477
+Family 42 becomes hungry at 4479
+Family 12 eats from the Pot at 4479
+Family 9 becomes hungry at 4482
+Family 49 eats from the Pot at 4483
+Family 46 becomes hungry at 4483
+Family 35 becomes hungry at 4492
+Family 19 becomes hungry at 4495
+Family 18 becomes hungry at 4496
+Family 24 becomes hungry at 4500
+Family 49 becomes hungry at 4535
+Family 25 becomes hungry at 4544
+Family 38 becomes hungry at 4558
+Family 41 becomes hungry at 4560
+Family 15 becomes hungry at 4561
+Family 43 becomes hungry at 4567
+Family 12 becomes hungry at 4571
+Family 4 becomes hungry at 4586
+Family 27 becomes hungry at 4588
+vendor refills the ice-cream 25 times at 4590
+Family 47 becomes hungry at 4592
+Family 1 eats from the Pot at 4598
+Family 40 eats from the Pot at 4604
+Family 5 eats from the Pot at 4609
+Family 6 eats from the Pot at 4614
+Family 3 eats from the Pot at 4622
+Family 14 eats from the Pot at 4627
+Family 39 eats from the Pot at 4632
+Family 23 eats from the Pot at 4639
+Family 13 eats from the Pot at 4645
+Family 26 eats from the Pot at 4651
+Family 1 becomes hungry at 4710
+Family 39 becomes hungry at 4713
+Family 40 becomes hungry at 4717
+vendor refills the ice-cream 26 times at 4720
+Family 5 becomes hungry at 4721
+Family 6 becomes hungry at 4725
+Family 8 eats from the Pot at 4729
+Family 3 becomes hungry at 4734
+Family 26 becomes hungry at 4768
+Family 8 becomes hungry at 4769
+Family 3 eats from the Pot at 4771
+Family 26 eats from the Pot at 4771
+Family 7 eats from the Pot at 4734
+Family 22 eats from the Pot at 4742
+Family 50 eats from the Pot at 4778
+Family 14 becomes hungry at 4742
+Family 23 becomes hungry at 4754
+Family 13 becomes hungry at 4760
+Family 48 eats from the Pot at 4755
+Family 21 eats from the Pot at 4761
+Family 28 eats from the Pot at 4750
+Family 8 eats from the Pot at 4771
+Family 50 becomes hungry at 4867
+Family 3 becomes hungry at 4888
+Family 48 becomes hungry at 4891
+Family 26 becomes hungry at 4892
+Family 7 becomes hungry at 4892
+Family 28 becomes hungry at 4896
+Family 22 becomes hungry at 4900
+vendor refills the ice-cream 27 times at 4905
+Family 31 eats from the Pot at 4913
+Family 21 becomes hungry at 4914
+Family 21 eats from the Pot at 4916
+Family 17 eats from the Pot at 4919
+Family 8 becomes hungry at 4923
+Family 16 eats from the Pot at 4923
+Family 11 eats from the Pot at 4925
+Family 8 eats from the Pot at 4926
+Family 32 eats from the Pot at 4929
+Family 29 eats from the Pot at 4931
+Family 36 eats from the Pot at 4934
+Family 37 eats from the Pot at 4937
+Family 32 becomes hungry at 5002
+Family 31 becomes hungry at 5025
+Family 21 becomes hungry at 5026
+Family 17 becomes hungry at 5030
+Family 11 becomes hungry at 5038
+Family 16 becomes hungry at 5038
+Family 8 becomes hungry at 5041
+Family 36 becomes hungry at 5045
+Family 29 becomes hungry at 5046
+Family 37 becomes hungry at 5049
+vendor refills the ice-cream 28 times at 5056
+Family 20 eats from the Pot at 5063
+Family 9 eats from the Pot at 5070
+Family 46 eats from the Pot at 5076
+Family 34 eats from the Pot at 5082
+Family 35 eats from the Pot at 5088
+Family 19 eats from the Pot at 5095
+Family 45 eats from the Pot at 5100
+Family 18 eats from the Pot at 5107
+Family 24 eats from the Pot at 5113
+Family 30 eats from the Pot at 5119
+Family 18 becomes hungry at 5156
+Family 20 becomes hungry at 5177
+Family 24 becomes hungry at 5183
+Family 9 becomes hungry at 5185
+Family 46 becomes hungry at 5186
+Family 34 becomes hungry at 5196
+Family 35 becomes hungry at 5201
+Family 45 becomes hungry at 5223
+Family 19 becomes hungry at 5223
+Family 30 becomes hungry at 5230
+vendor refills the ice-cream 29 times at 5242
+Family 49 eats from the Pot at 5250
+Family 25 eats from the Pot at 5256
+Family 38 eats from the Pot at 5263
+Family 41 eats from the Pot at 5268
+Family 15 eats from the Pot at 5274
+Family 43 eats from the Pot at 5279
+Family 12 eats from the Pot at 5285
+Family 4 eats from the Pot at 5292
+Family 27 eats from the Pot at 5298
+Family 47 eats from the Pot at 5305
+Family 49 becomes hungry at 5362
+Family 43 becomes hungry at 5364
+Family 25 becomes hungry at 5368
+Family 38 becomes hungry at 5375
+Family 41 becomes hungry at 5379
+Family 15 becomes hungry at 5384
+Family 12 becomes hungry at 5395
+Family 4 becomes hungry at 5404
+Family 27 becomes hungry at 5409
+Family 47 becomes hungry at 5417
+vendor refills the ice-cream 30 times at 5427
+Family 1 eats from the Pot at 5434
+Family 39 eats from the Pot at 5440
+Family 40 eats from the Pot at 5445
+Family 5 eats from the Pot at 5451
+Family 6 eats from the Pot at 5456
+Family 10 eats from the Pot at 5463
+Family 33 eats from the Pot at 5468
+Family 2 eats from the Pot at 5473
+Family 14 eats from the Pot at 5480
+Family 23 eats from the Pot at 5486
+Family 40 becomes hungry at 5540
+Family 1 becomes hungry at 5545
+Family 39 becomes hungry at 5550
+Family 5 becomes hungry at 5561
+Family 6 becomes hungry at 5566
+Family 10 becomes hungry at 5574
+Family 33 becomes hungry at 5578
+Family 2 becomes hungry at 5584
+vendor refills the ice-cream 31 times at 5606
+Family 23 becomes hungry at 5607
+Family 13 eats from the Pot at 5618
+Family 50 eats from the Pot at 5624
+Family 14 becomes hungry at 5625
+Family 14 eats from the Pot at 5627
+Family 3 eats from the Pot at 5636
+Family 26 eats from the Pot at 5643
+Family 7 eats from the Pot at 5649
+Family 28 eats from the Pot at 5654
+Family 48 eats from the Pot at 5658
+Family 22 eats from the Pot at 5662
+Family 44 eats from the Pot at 5666
+Family 13 becomes hungry at 5699
+Family 50 becomes hungry at 5740
+Family 14 becomes hungry at 5755
+Family 3 becomes hungry at 5760
+Family 26 becomes hungry at 5761
+Family 48 becomes hungry at 5706
+Family 28 becomes hungry at 5770
+Family 7 becomes hungry at 5724
+Family 22 becomes hungry at 5779
+vendor refills the ice-cream 32 times at 5795
+Family 42 eats from the Pot at 5804
+Family 31 eats from the Pot at 5810
+Family 44 becomes hungry at 5815
+Family 44 eats from the Pot at 5818
+Family 21 eats from the Pot at 5818
+Family 17 eats from the Pot at 5824
+Family 11 eats from the Pot at 5825
+Family 8 eats from the Pot at 5832
+Family 16 eats from the Pot at 5833
+Family 36 eats from the Pot at 5837
+Family 29 eats from the Pot at 5838
+Family 42 becomes hungry at 5919
+Family 31 becomes hungry at 5921
+vendor refills the ice-cream 33 times at 5921
+Family 37 eats from the Pot at 5930
+Family 21 becomes hungry at 5933
+Family 44 becomes hungry at 5933
+Family 21 eats from the Pot at 5936
+Family 44 eats from the Pot at 5936
+Family 11 becomes hungry at 5941
+Family 20 eats from the Pot at 5942
+Family 17 becomes hungry at 5943
+Family 11 eats from the Pot at 5945
+Family 17 eats from the Pot at 5949
+Family 9 eats from the Pot at 5950
+Family 24 eats from the Pot at 5950
+Family 16 becomes hungry at 5952
+Family 46 eats from the Pot at 5954
+Family 29 becomes hungry at 5955
+Family 36 becomes hungry at 5958
+Family 34 eats from the Pot at 5958
+Family 8 becomes hungry at 5960
+Family 37 becomes hungry at 6046
+Family 34 becomes hungry at 6051
+Family 44 becomes hungry at 6053
+Family 21 becomes hungry at 6054
+Family 9 becomes hungry at 6054
+Family 11 becomes hungry at 6058
+Family 46 becomes hungry at 6054
+Family 17 becomes hungry at 6065
+Family 24 becomes hungry at 6066
+Family 20 becomes hungry at 6054
+vendor refills the ice-cream 34 times at 6068
+Family 16 eats from the Pot at 6077
+Family 43 eats from the Pot at 6084
+Family 25 eats from the Pot at 6091
+Family 38 eats from the Pot at 6099
+Family 41 eats from the Pot at 6106
+Family 15 eats from the Pot at 6112
+Family 12 eats from the Pot at 6119
+Family 4 eats from the Pot at 6127
+Family 27 eats from the Pot at 6133
+Family 47 eats from the Pot at 6140
+Family 4 becomes hungry at 6154
+Family 16 becomes hungry at 6194
+Family 43 becomes hungry at 6195
+Family 25 becomes hungry at 6210
+Family 38 becomes hungry at 6214
+Family 41 becomes hungry at 6217
+Family 15 becomes hungry at 6223
+Family 12 becomes hungry at 6232
+Family 27 becomes hungry at 6244
+Family 47 becomes hungry at 6256
+vendor refills the ice-cream 35 times at 6261
+Family 40 eats from the Pot at 6269
+Family 1 eats from the Pot at 6275
+Family 39 eats from the Pot at 6281
+Family 5 eats from the Pot at 6287
+Family 6 eats from the Pot at 6293
+Family 10 eats from the Pot at 6300
+Family 33 eats from the Pot at 6306
+Family 2 eats from the Pot at 6312
+Family 23 eats from the Pot at 6318
+Family 32 eats from the Pot at 6325
+Family 40 becomes hungry at 6381
+vendor refills the ice-cream 36 times at 6386
+Family 39 becomes hungry at 6392
+Family 1 becomes hungry at 6386
+Family 50 eats from the Pot at 6398
+Family 1 eats from the Pot at 6399
+Family 5 becomes hungry at 6400
+Family 5 eats from the Pot at 6402
+Family 6 becomes hungry at 6404
+Family 13 eats from the Pot at 6404
+Family 6 eats from the Pot at 6407
+Family 14 eats from the Pot at 6408
+Family 3 eats from the Pot at 6413
+Family 26 eats from the Pot at 6414
+Family 48 eats from the Pot at 6416
+Family 28 eats from the Pot at 6417
+Family 10 becomes hungry at 6418
+Family 33 becomes hungry at 6420
+Family 2 becomes hungry at 6430
+Family 23 becomes hungry at 6434
+Family 32 becomes hungry at 6442
+Family 48 becomes hungry at 6469
+Family 50 becomes hungry at 6475
+Family 13 becomes hungry at 6480
+Family 26 becomes hungry at 6500
+Family 1 becomes hungry at 6513
+Family 6 becomes hungry at 6519
+Family 5 becomes hungry at 6519
+Family 14 becomes hungry at 6524
+Family 3 becomes hungry at 6530
+Family 28 becomes hungry at 6532
+vendor refills the ice-cream 37 times at 6539
+Family 7 eats from the Pot at 6548
+Family 31 eats from the Pot at 6555
+Family 35 eats from the Pot at 6574
+Family 45 eats from the Pot at 6561
+Family 36 eats from the Pot at 6583
+Family 29 eats from the Pot at 6566
+Family 30 eats from the Pot at 6592
+Family 8 eats from the Pot at 6599
+Family 49 eats from the Pot at 6605
+Family 19 eats from the Pot at 6613
+Family 7 becomes hungry at 6662
+Family 31 becomes hungry at 6687
+Family 35 becomes hungry at 6690
+Family 19 becomes hungry at 6693
+Family 49 becomes hungry at 6698
+Family 36 becomes hungry at 6700
+Family 29 becomes hungry at 6703
+Family 30 becomes hungry at 6704
+Family 45 becomes hungry at 6698
+Family 8 becomes hungry at 6713
+vendor refills the ice-cream 38 times at 6736
+Family 37 eats from the Pot at 6746
+Family 34 eats from the Pot at 6753
+Family 44 eats from the Pot at 6758
+Family 11 eats from the Pot at 6764
+Family 21 eats from the Pot at 6770
+Family 9 eats from the Pot at 6778
+Family 46 eats from the Pot at 6784
+Family 17 eats from the Pot at 6790
+Family 24 eats from the Pot at 6796
+Family 20 eats from the Pot at 6803
+Family 37 becomes hungry at 6861
+Family 34 becomes hungry at 6863
+vendor refills the ice-cream 39 times at 6863
+Family 44 becomes hungry at 6873
+Family 4 eats from the Pot at 6874
+Family 44 eats from the Pot at 6875
+Family 11 becomes hungry at 6876
+Family 11 eats from the Pot at 6879
+Family 16 eats from the Pot at 6881
+Family 21 becomes hungry at 6884
+Family 43 eats from the Pot at 6886
+Family 21 eats from the Pot at 6886
+Family 25 eats from the Pot at 6889
+Family 38 eats from the Pot at 6890
+Family 41 eats from the Pot at 6893
+Family 9 becomes hungry at 6894
+Family 15 eats from the Pot at 6896
+Family 46 becomes hungry at 6901
+Family 17 becomes hungry at 6905
+Family 24 becomes hungry at 6911
+Family 20 becomes hungry at 6920
+Family 43 becomes hungry at 6922
+Family 16 becomes hungry at 6935
+Family 41 becomes hungry at 6946
+Family 44 becomes hungry at 6987
+Family 4 becomes hungry at 6989
+Family 11 becomes hungry at 6991
+Family 21 becomes hungry at 6999
+Family 25 becomes hungry at 7003
+Family 38 becomes hungry at 7004
+Family 15 becomes hungry at 7008
+vendor refills the ice-cream 40 times at 7016
+Family 9 eats from the Pot at 7024
+Family 39 eats from the Pot at 7030
+Family 10 eats from the Pot at 7036
+Family 33 eats from the Pot at 7042
+Family 42 eats from the Pot at 7049
+Family 18 eats from the Pot at 7056
+Family 2 eats from the Pot at 7062
+Family 22 eats from the Pot at 7068
+Family 23 eats from the Pot at 7074
+Family 32 eats from the Pot at 7081
+Family 9 becomes hungry at 7139
+Family 39 becomes hungry at 7143
+vendor refills the ice-cream 41 times at 7147
+Family 22 becomes hungry at 7147
+Family 10 becomes hungry at 7151
+Family 33 becomes hungry at 7153
+Family 48 eats from the Pot at 7157
+Family 42 becomes hungry at 7163
+Family 50 eats from the Pot at 7163
+Family 42 eats from the Pot at 7167
+Family 18 becomes hungry at 7170
+Family 13 eats from the Pot at 7170
+Family 18 eats from the Pot at 7172
+Family 26 eats from the Pot at 7173
+Family 2 becomes hungry at 7176
+Family 1 eats from the Pot at 7178
+Family 6 eats from the Pot at 7178
+Family 2 eats from the Pot at 7180
+Family 5 eats from the Pot at 7182
+Family 23 becomes hungry at 7192
+Family 32 becomes hungry at 7194
+Family 48 becomes hungry at 7233
+Family 26 becomes hungry at 7241
+Family 5 becomes hungry at 7243
+Family 50 becomes hungry at 7280
+Family 42 becomes hungry at 7281
+Family 13 becomes hungry at 7285
+Family 18 becomes hungry at 7286
+Family 1 becomes hungry at 7292
+Family 6 becomes hungry at 7293
+Family 2 becomes hungry at 7295
+vendor refills the ice-cream 42 times at 7304
+Family 3 eats from the Pot at 7313
+Family 31 eats from the Pot at 7319
+Family 35 eats from the Pot at 7326
+Family 19 eats from the Pot at 7332
+Family 36 eats from the Pot at 7339
+Family 49 eats from the Pot at 7345
+Family 29 eats from the Pot at 7351
+Family 30 eats from the Pot at 7357
+Family 45 eats from the Pot at 7363
+Family 8 eats from the Pot at 7371
+Family 29 becomes hungry at 7406
+Family 36 becomes hungry at 7426
+Family 3 becomes hungry at 7432
+Family 31 becomes hungry at 7435
+Family 35 becomes hungry at 7440
+Family 49 becomes hungry at 7458
+Family 19 becomes hungry at 7444
+Family 30 becomes hungry at 7471
+Family 45 becomes hungry at 7476
+Family 8 becomes hungry at 7485
+vendor refills the ice-cream 43 times at 7497
+Family 37 eats from the Pot at 7505
+Family 34 eats from the Pot at 7512
+Family 12 eats from the Pot at 7518
+Family 27 eats from the Pot at 7524
+Family 47 eats from the Pot at 7532
+Family 40 eats from the Pot at 7538
+Family 46 eats from the Pot at 7546
+Family 17 eats from the Pot at 7552
+Family 24 eats from the Pot at 7558
+Family 20 eats from the Pot at 7565
+Family 37 becomes hungry at 7616
+Family 34 becomes hungry at 7625
+Family 12 becomes hungry at 7643
+Family 47 becomes hungry at 7645
+Family 40 becomes hungry at 7649
+Family 27 becomes hungry at 7649
+Family 46 becomes hungry at 7659
+Family 17 becomes hungry at 7663
+vendor refills the ice-cream 44 times at 7664
+Family 24 becomes hungry at 7669
+Family 43 eats from the Pot at 7674
+Family 20 becomes hungry at 7680
+Family 20 eats from the Pot at 7683
+Family 16 eats from the Pot at 7683
+Family 44 eats from the Pot at 7691
+Family 41 eats from the Pot at 7691
+Family 11 eats from the Pot at 7697
+Family 4 eats from the Pot at 7698
+Family 21 eats from the Pot at 7705
+Family 25 eats from the Pot at 7706
+Family 15 eats from the Pot at 7712
+Family 44 becomes hungry at 7745
+Family 21 becomes hungry at 7773
+Family 43 becomes hungry at 7786
+Family 20 becomes hungry at 7801
+Family 16 becomes hungry at 7801
+Family 41 becomes hungry at 7809
+Family 11 becomes hungry at 7810
+Family 4 becomes hungry at 7811
+Family 25 becomes hungry at 7819
+Family 15 becomes hungry at 7825
+vendor refills the ice-cream 45 times at 7830
+Family 38 eats from the Pot at 7839
+Family 39 eats from the Pot at 7847
+Family 22 eats from the Pot at 7853
+Family 10 eats from the Pot at 7860
+Family 33 eats from the Pot at 7866
+Family 14 eats from the Pot at 7873
+Family 28 eats from the Pot at 7879
+Family 23 eats from the Pot at 7887
+Family 32 eats from the Pot at 7893
+Family 7 eats from the Pot at 7899
+Family 22 becomes hungry at 7935
+Family 38 becomes hungry at 7951
+Family 39 becomes hungry at 7964
+Family 10 becomes hungry at 7966
+Family 33 becomes hungry at 7978
+Family 14 becomes hungry at 7988
+Family 28 becomes hungry at 7992
+Family 7 becomes hungry at 7993
+Family 23 becomes hungry at 8000
+Family 32 becomes hungry at 8004
+vendor refills the ice-cream 46 times at 8022
+Family 48 eats from the Pot at 8030
+Family 26 eats from the Pot at 8036
+Family 5 eats from the Pot at 8042
+Family 50 eats from the Pot at 8049
+Family 42 eats from the Pot at 8056
+Family 13 eats from the Pot at 8062
+Family 18 eats from the Pot at 8069
+Family 1 eats from the Pot at 8076
+Family 6 eats from the Pot at 8086
+Family 2 eats from the Pot at 8096
+Family 26 becomes hungry at 8147
+Family 5 becomes hungry at 8154
+Family 48 becomes hungry at 8155
+Family 50 becomes hungry at 8157
+Family 42 becomes hungry at 8178
+Family 18 becomes hungry at 8184
+Family 13 becomes hungry at 8190
+Family 1 becomes hungry at 8191
+Family 6 becomes hungry at 8200
+Family 2 becomes hungry at 8213
+vendor refills the ice-cream 47 times at 8227
+Family 29 eats from the Pot at 8235
+Family 36 eats from the Pot at 8243
+Family 3 eats from the Pot at 8249
+Family 31 eats from the Pot at 8256
+Family 35 eats from the Pot at 8263
+Family 49 eats from the Pot at 8270
+Family 19 eats from the Pot at 8279
+Family 30 eats from the Pot at 8286
+Family 45 eats from the Pot at 8293
+Family 8 eats from the Pot at 8307
+Family 3 becomes hungry at 8333
+Family 29 becomes hungry at 8351
+Family 30 becomes hungry at 8354
+Family 36 becomes hungry at 8365
+Family 19 becomes hungry at 8370
+Family 31 becomes hungry at 8374
+Family 35 becomes hungry at 8386
+Family 45 becomes hungry at 8390
+Family 49 becomes hungry at 8390
+Family 8 becomes hungry at 8425
+vendor refills the ice-cream 48 times at 8436
+Family 37 eats from the Pot at 8447
+Family 34 eats from the Pot at 8455
+Family 12 eats from the Pot at 8462
+Family 47 eats from the Pot at 8471
+Family 40 eats from the Pot at 8482
+Family 27 eats from the Pot at 8492
+Family 47 becomes hungry at 8538
+Family 47 eats from the Pot at 8545
+Family 46 eats from the Pot at 8502
+Family 17 eats from the Pot at 8513
+Family 24 eats from the Pot at 8534
+Family 37 becomes hungry at 8571
+Family 34 becomes hungry at 8576
+Family 12 becomes hungry at 8576
+Family 40 becomes hungry at 8575
+Family 24 becomes hungry at 8640
+Family 27 becomes hungry at 8657
+Family 47 becomes hungry at 8659
+Family 46 becomes hungry at 8663
+Family 17 becomes hungry at 8671
+vendor refills the ice-cream 49 times at 8677
+Family 9 eats from the Pot at 8688
+Family 21 eats from the Pot at 8696
+Family 43 eats from the Pot at 8705
+Family 20 eats from the Pot at 8713
+Family 16 eats from the Pot at 8722
+Family 41 eats from the Pot at 8729
+Family 11 eats from the Pot at 8736
+Family 4 eats from the Pot at 8756
+Family 25 eats from the Pot at 8765
+Family 15 eats from the Pot at 8775
+Family 9 becomes hungry at 8808
+Family 43 becomes hungry at 8810
+Family 20 becomes hungry at 8817
+Family 41 becomes hungry at 8818
+Family 21 becomes hungry at 8824
+Family 16 becomes hungry at 8839
+Family 11 becomes hungry at 8850
+Family 25 becomes hungry at 8875
+Family 4 becomes hungry at 8877
+vendor refills the ice-cream 50 times at 8878
+Family 22 eats from the Pot at 8891
+Family 15 becomes hungry at 8893
+Family 15 eats from the Pot at 8896
+Family 38 eats from the Pot at 8901
+Family 39 eats from the Pot at 8903
+Family 10 eats from the Pot at 8911
+Family 33 eats from the Pot at 8912
+Family 14 eats from the Pot at 8918
+Family 28 eats from the Pot at 8920
+Family 7 eats from the Pot at 8928
+Family 23 eats from the Pot at 8931
+Family 15 becomes hungry at 8998
+Family 39 becomes hungry at 9000
+Family 28 becomes hungry at 9012
+Family 22 becomes hungry at 9020
+Family 10 becomes hungry at 9025
+Family 38 becomes hungry at 9027
+Family 33 becomes hungry at 9030
+Family 14 becomes hungry at 9032
+Family 7 becomes hungry at 9046
+vendor refills the ice-cream 51 times at 9062
+Family 23 becomes hungry at 9063
+Family 26 eats from the Pot at 9073
+Family 5 eats from the Pot at 9084
+Family 48 eats from the Pot at 9093
+Family 50 eats from the Pot at 9101
+Family 42 eats from the Pot at 9111
+Family 18 eats from the Pot at 9120
+Family 13 eats from the Pot at 9128
+Family 1 eats from the Pot at 9137
+Family 6 eats from the Pot at 9149
+Family 2 eats from the Pot at 9158
+Family 48 becomes hungry at 9165
+Family 26 becomes hungry at 9194
+Family 2 becomes hungry at 9196
+Family 5 becomes hungry at 9209
+Family 18 becomes hungry at 9223
+Family 50 becomes hungry at 9225
+Family 42 becomes hungry at 9230
+Family 13 becomes hungry at 9244
+Family 1 becomes hungry at 9256
+Family 6 becomes hungry at 9277
+vendor refills the ice-cream 52 times at 9292
+Family 3 eats from the Pot at 9304
+Family 29 eats from the Pot at 9311
+Family 30 eats from the Pot at 9321
+Family 36 eats from the Pot at 9330
+Family 19 eats from the Pot at 9339
+Family 31 eats from the Pot at 9349
+Family 35 eats from the Pot at 9359
+Family 45 eats from the Pot at 9365
+Family 49 eats from the Pot at 9373
+Family 8 eats from the Pot at 9381
+Family 29 becomes hungry at 9391
+Family 31 becomes hungry at 9421
+Family 3 becomes hungry at 9433
+Family 30 becomes hungry at 9441
+Family 19 becomes hungry at 9446
+Family 36 becomes hungry at 9449
+Family 8 becomes hungry at 9452
+Family 35 becomes hungry at 9475
+Family 49 becomes hungry at 9480
+Family 45 becomes hungry at 9486
+vendor refills the ice-cream 53 times at 9513
+Family 44 eats from the Pot at 9523
+Family 37 eats from the Pot at 9531
+Family 34 eats from the Pot at 9539
+Family 12 eats from the Pot at 9547
+Family 40 eats from the Pot at 9554
+Family 24 eats from the Pot at 9561
+Family 27 eats from the Pot at 9569
+Family 47 eats from the Pot at 9577
+Family 46 eats from the Pot at 9584
+Family 17 eats from the Pot at 9591
+Family 37 becomes hungry at 9602
+Family 34 becomes hungry at 9603
+Family 44 becomes hungry at 9641
+Family 47 becomes hungry at 9667
+Family 46 becomes hungry at 9669
+Family 12 becomes hungry at 9669
+Family 40 becomes hungry at 9680
+Family 24 becomes hungry at 9683
+Family 27 becomes hungry at 9684
+Family 17 becomes hungry at 9727
+vendor refills the ice-cream 54 times at 9743
+Family 37 eats from the Pot at 9753
+Family 43 eats from the Pot at 9759
+Family 20 eats from the Pot at 9768
+Family 41 eats from the Pot at 9774
+Family 21 eats from the Pot at 9782
+Family 16 eats from the Pot at 9792
+Family 11 eats from the Pot at 9799
+Family 25 eats from the Pot at 9805
+Family 4 eats from the Pot at 9815
+Family 32 eats from the Pot at 9822
+Family 41 becomes hungry at 9852
+Family 37 becomes hungry at 9871
+Family 20 becomes hungry at 9873
+Family 43 becomes hungry at 9874
+Family 25 becomes hungry at 9878
+Family 21 becomes hungry at 9899
+Family 16 becomes hungry at 9911
+Family 11 becomes hungry at 9912
+Family 32 becomes hungry at 9935
+vendor refills the ice-cream 55 times at 9935
+Family 4 becomes hungry at 9937
+Family 15 eats from the Pot at 9948
+Family 39 eats from the Pot at 9955
+Family 28 eats from the Pot at 9962
+Family 22 eats from the Pot at 9969
+Family 10 eats from the Pot at 9977
+Family 38 eats from the Pot at 9985
+Family 33 eats from the Pot at 9993
+Family 14 eats from the Pot at 10000
+Family 7 eats from the Pot at 10012
+Family 23 eats from the Pot at 10022
+Family 15 becomes hungry at 10067
+Family 10 becomes hungry at 10070
+Family 22 becomes hungry at 10073
+Family 39 becomes hungry at 10075
+Family 38 becomes hungry at 10081
+Family 28 becomes hungry at 10086
+Family 33 becomes hungry at 10112
+Family 14 becomes hungry at 10113
+Family 7 becomes hungry at 10125
+vendor refills the ice-cream 56 times at 10138
+Family 23 becomes hungry at 10141
+Family 48 eats from the Pot at 10149
+Family 26 eats from the Pot at 10158
+Family 2 eats from the Pot at 10165
+Family 5 eats from the Pot at 10174
+Family 18 eats from the Pot at 10183
+Family 50 eats from the Pot at 10190
+Family 42 eats from the Pot at 10198
+Family 13 eats from the Pot at 10207
+Family 1 eats from the Pot at 10219
+Family 6 eats from the Pot at 10229
+Family 48 becomes hungry at 10262
+Family 18 becomes hungry at 10263
+Family 26 becomes hungry at 10266
+Family 2 becomes hungry at 10283
+Family 5 becomes hungry at 10289
+Family 6 becomes hungry at 10292
+Family 50 becomes hungry at 10308
+vendor refills the ice-cream 57 times at 10311
+Family 42 becomes hungry at 10317
+Family 13 becomes hungry at 10320
+Family 29 eats from the Pot at 10322
+Family 13 eats from the Pot at 10323
+Family 31 eats from the Pot at 10330
+Family 3 eats from the Pot at 10331
+Family 1 becomes hungry at 10335
+Family 30 eats from the Pot at 10337
+Family 1 eats from the Pot at 10339
+Family 19 eats from the Pot at 10343
+Family 36 eats from the Pot at 10348
+Family 8 eats from the Pot at 10348
+Family 35 eats from the Pot at 10354
+Family 30 becomes hungry at 10417
+Family 35 becomes hungry at 10423
+Family 13 becomes hungry at 10439
+Family 29 becomes hungry at 10444
+Family 3 becomes hungry at 10445
+Family 31 becomes hungry at 10446
+vendor refills the ice-cream 58 times at 10450
+Family 8 becomes hungry at 10450
+Family 19 becomes hungry at 10462
+Family 45 eats from the Pot at 10465
+Family 1 becomes hungry at 10469
+Family 1 eats from the Pot at 10472
+Family 9 eats from the Pot at 10474
+Family 36 becomes hungry at 10474
+Family 36 eats from the Pot at 10477
+Family 47 eats from the Pot at 10482
+Family 44 eats from the Pot at 10484
+Family 46 eats from the Pot at 10485
+Family 40 eats from the Pot at 10490
+Family 12 eats from the Pot at 10496
+Family 27 eats from the Pot at 10498
+Family 27 becomes hungry at 10551
+Family 45 becomes hungry at 10581
+Family 1 becomes hungry at 10588
+Family 36 becomes hungry at 10590
+Family 9 becomes hungry at 10591
+Family 46 becomes hungry at 10599
+Family 47 becomes hungry at 10600
+Family 44 becomes hungry at 10603
+Family 40 becomes hungry at 10604
+Family 12 becomes hungry at 10608
+vendor refills the ice-cream 59 times at 10619
+Family 24 eats from the Pot at 10628
+Family 37 eats from the Pot at 10636
+Family 20 eats from the Pot at 10644
+Family 43 eats from the Pot at 10658
+Family 25 eats from the Pot at 10666
+Family 21 eats from the Pot at 10673
+Family 16 eats from the Pot at 10682
+Family 11 eats from the Pot at 10689
+Family 24 becomes hungry at 10741
+Family 4 eats from the Pot at 10706
+Family 37 becomes hungry at 10751
+Family 32 eats from the Pot at 10697
+Family 20 becomes hungry at 10760
+Family 21 becomes hungry at 10727
+Family 43 becomes hungry at 10773
+Family 25 becomes hungry at 10779
+vendor refills the ice-cream 60 times at 10815
+Family 15 eats from the Pot at 10825
+Family 10 eats from the Pot at 10835
+Family 22 eats from the Pot at 10842
+Family 39 eats from the Pot at 10849
+Family 16 becomes hungry at 10855
+Family 11 becomes hungry at 10857
+Family 38 eats from the Pot at 10856
+Family 11 eats from the Pot at 10861
+Family 28 eats from the Pot at 10862
+Family 16 eats from the Pot at 10863
+Family 32 becomes hungry at 10871
+Family 7 eats from the Pot at 10873
+Family 4 becomes hungry at 10874
+Family 14 eats from the Pot at 10875
+Family 15 becomes hungry at 10905
+Family 39 becomes hungry at 10939
+Family 14 becomes hungry at 10941
+Family 28 becomes hungry at 10944
+Family 10 becomes hungry at 10953
+Family 22 becomes hungry at 10958
+Family 38 becomes hungry at 10971
+Family 11 becomes hungry at 10974
+vendor refills the ice-cream 61 times at 10977
+Family 16 becomes hungry at 10980
+Family 32 eats from the Pot at 10986
+Family 7 becomes hungry at 10986
+Family 7 eats from the Pot at 10990
+Family 18 eats from the Pot at 10994
+Family 26 eats from the Pot at 10998
+Family 2 eats from the Pot at 11001
+Family 5 eats from the Pot at 11004
+Family 6 eats from the Pot at 11009
+Family 50 eats from the Pot at 11013
+Family 42 eats from the Pot at 11017
+Family 34 eats from the Pot at 11019
+Family 18 becomes hungry at 11071
+Family 42 becomes hungry at 11082
+Family 32 becomes hungry at 11100
+Family 7 becomes hungry at 11103
+Family 2 becomes hungry at 11113
+Family 26 becomes hungry at 11114
+vendor refills the ice-cream 62 times at 11118
+Family 5 becomes hungry at 11123
+Family 6 becomes hungry at 11125
+Family 50 becomes hungry at 11127
+Family 49 eats from the Pot at 11128
+Family 6 eats from the Pot at 11129
+Family 50 eats from the Pot at 11132
+Family 35 eats from the Pot at 11138
+Family 34 becomes hungry at 11140
+Family 13 eats from the Pot at 11140
+Family 34 eats from the Pot at 11146
+Family 31 eats from the Pot at 11149
+Family 29 eats from the Pot at 11156
+Family 19 eats from the Pot at 11157
+Family 3 eats from the Pot at 11163
+Family 31 becomes hungry at 11209
+Family 49 becomes hungry at 11245
+Family 50 becomes hungry at 11247
+Family 6 becomes hungry at 11248
+vendor refills the ice-cream 63 times at 11250
+Family 29 becomes hungry at 11251
+Family 3 becomes hungry at 11252
+Family 19 becomes hungry at 11253
+Family 35 becomes hungry at 11258
+Family 34 becomes hungry at 11262
+Family 13 becomes hungry at 11263
+Family 34 eats from the Pot at 11264
+Family 13 eats from the Pot at 11268
+Family 8 eats from the Pot at 11263
+Family 1 eats from the Pot at 11273
+Family 45 eats from the Pot at 11273
+Family 36 eats from the Pot at 11276
+Family 46 eats from the Pot at 11279
+Family 9 eats from the Pot at 11281
+Family 47 eats from the Pot at 11284
+Family 40 eats from the Pot at 11289
+Family 34 becomes hungry at 11379
+Family 46 becomes hungry at 11382
+Family 13 becomes hungry at 11386
+Family 9 becomes hungry at 11393
+Family 45 becomes hungry at 11396
+vendor refills the ice-cream 64 times at 11397
+Family 47 becomes hungry at 11401
+Family 36 becomes hungry at 11401
+Family 1 becomes hungry at 11402
+Family 40 becomes hungry at 11404
+Family 8 becomes hungry at 11408
+Family 44 eats from the Pot at 11409
+Family 8 eats from the Pot at 11410
+Family 37 eats from the Pot at 11417
+Family 20 eats from the Pot at 11419
+Family 21 eats from the Pot at 11424
+Family 43 eats from the Pot at 11425
+Family 25 eats from the Pot at 11431
+Family 33 eats from the Pot at 11434
+Family 4 eats from the Pot at 11440
+Family 48 eats from the Pot at 11441
+Family 8 becomes hungry at 11529
+vendor refills the ice-cream 65 times at 11531
+Family 44 becomes hungry at 11536
+Family 33 becomes hungry at 11537
+Family 37 becomes hungry at 11538
+Family 21 becomes hungry at 11541
+Family 10 eats from the Pot at 11569
+Family 28 eats from the Pot at 11570
+Family 21 eats from the Pot at 11572
+Family 15 eats from the Pot at 11543
+Family 22 eats from the Pot at 11578
+Family 20 becomes hungry at 11579
+Family 38 eats from the Pot at 11580
+Family 14 eats from the Pot at 11553
+Family 43 becomes hungry at 11543
+Family 11 eats from the Pot at 11600
+Family 48 becomes hungry at 11557
+Family 39 eats from the Pot at 11560
+Family 25 becomes hungry at 11550
+Family 37 eats from the Pot at 11544
+Family 4 becomes hungry at 11560
+Family 28 becomes hungry at 11655
+Family 10 becomes hungry at 11693
+Family 11 becomes hungry at 11694
+Family 21 becomes hungry at 11697
+Family 22 becomes hungry at 11698
+Family 15 becomes hungry at 11700
+Family 39 becomes hungry at 11702
+Family 14 becomes hungry at 11709
+Family 38 becomes hungry at 11712
+Family 37 becomes hungry at 11713
+vendor refills the ice-cream 66 times at 11726
+Family 20 eats from the Pot at 11734
+Family 42 eats from the Pot at 11743
+Family 32 eats from the Pot at 11750
+Family 7 eats from the Pot at 11756
+Family 2 eats from the Pot at 11764
+Family 26 eats from the Pot at 11771
+Family 5 eats from the Pot at 11778
+Family 41 eats from the Pot at 11786
+Family 27 eats from the Pot at 11793
+Family 17 eats from the Pot at 11804
+Family 7 becomes hungry at 11836
+Family 20 becomes hungry at 11847
+Family 42 becomes hungry at 11862
+Family 32 becomes hungry at 11863
+Family 2 becomes hungry at 11877
+Family 17 becomes hungry at 11879
+Family 26 becomes hungry at 11889
+Family 41 becomes hungry at 11892
+Family 5 becomes hungry at 11892
+Family 27 becomes hungry at 11900
+vendor refills the ice-cream 67 times at 11930
+Family 31 eats from the Pot at 11939
+Family 49 eats from the Pot at 11947
+Family 50 eats from the Pot at 11954
+Family 6 eats from the Pot at 11961
+Family 29 eats from the Pot at 11968
+Family 3 eats from the Pot at 11974
+Family 19 eats from the Pot at 11981
+Family 35 eats from the Pot at 11987
+Family 12 eats from the Pot at 11995
+Family 24 eats from the Pot at 12009
+Family 35 becomes hungry at 12034
+Family 31 becomes hungry at 12052
+Family 49 becomes hungry at 12062
+Family 19 becomes hungry at 12065
+Family 50 becomes hungry at 12067
+Family 6 becomes hungry at 12075
+Family 29 becomes hungry at 12079
+Family 3 becomes hungry at 12087
+Family 12 becomes hungry at 12106
+Family 24 becomes hungry at 12125
+vendor refills the ice-cream 68 times at 12130
+Family 34 eats from the Pot at 12138
+Family 46 eats from the Pot at 12143
+Family 13 eats from the Pot at 12150
+Family 9 eats from the Pot at 12157
+Family 45 eats from the Pot at 12164
+Family 47 eats from the Pot at 12173
+Family 36 eats from the Pot at 12180
+Family 1 eats from the Pot at 12187
+Family 40 eats from the Pot at 12195
+Family 23 eats from the Pot at 12205
+Family 45 becomes hungry at 12241
+Family 47 becomes hungry at 12242
+Family 34 becomes hungry at 12253
+Family 46 becomes hungry at 12257
+Family 13 becomes hungry at 12263
+Family 9 becomes hungry at 12275
+Family 23 becomes hungry at 12278
+Family 36 becomes hungry at 12295
+Family 1 becomes hungry at 12301
+Family 40 becomes hungry at 12309
+vendor refills the ice-cream 69 times at 12325
+Family 8 eats from the Pot at 12334
+Family 44 eats from the Pot at 12341
+Family 33 eats from the Pot at 12349
+Family 16 eats from the Pot at 12356
+Family 30 eats from the Pot at 12364
+Family 43 eats from the Pot at 12369
+Family 48 eats from the Pot at 12376
+Family 18 eats from the Pot at 12382
+Family 25 eats from the Pot at 12389
+Family 4 eats from the Pot at 12395
+Family 16 becomes hungry at 12412
+Family 8 becomes hungry at 12451
+Family 30 becomes hungry at 12456
+Family 18 becomes hungry at 12456
+Family 44 becomes hungry at 12459
+Family 33 becomes hungry at 12466
+Family 43 becomes hungry at 12481
+Family 48 becomes hungry at 12487
+Family 25 becomes hungry at 12504
+Family 4 becomes hungry at 12516
+vendor refills the ice-cream 70 times at 12518
+Family 28 eats from the Pot at 12530
+Family 10 eats from the Pot at 12538
+Family 11 eats from the Pot at 12545
+Family 21 eats from the Pot at 12550
+Family 22 eats from the Pot at 12556
+Family 15 eats from the Pot at 12563
+Family 39 eats from the Pot at 12572
+Family 14 eats from the Pot at 12579
+Family 38 eats from the Pot at 12586
+Family 37 eats from the Pot at 12592
+Family 28 becomes hungry at 12645
+Family 11 becomes hungry at 12657
+Family 21 becomes hungry at 12663
+Family 10 becomes hungry at 12664
+Family 22 becomes hungry at 12709
+Family 39 becomes hungry at 12712
+vendor refills the ice-cream 71 times at 12719
+Family 15 becomes hungry at 12720
+Family 14 becomes hungry at 12721
+Family 37 becomes hungry at 12726
+Family 7 eats from the Pot at 12728
+Family 37 eats from the Pot at 12730
+Family 20 eats from the Pot at 12735
+Family 42 eats from the Pot at 12737
+Family 38 becomes hungry at 12739
+Family 38 eats from the Pot at 12741
+Family 2 eats from the Pot at 12743
+Family 32 eats from the Pot at 12744
+Family 41 eats from the Pot at 12750
+Family 5 eats from the Pot at 12757
+Family 17 eats from the Pot at 12757
+Family 7 becomes hungry at 12842
+Family 37 becomes hungry at 12844
+Family 20 becomes hungry at 12847
+Family 42 becomes hungry at 12848
+Family 38 becomes hungry at 12853
+Family 32 becomes hungry at 12856
+Family 2 becomes hungry at 12857
+Family 17 becomes hungry at 12860
+Family 41 becomes hungry at 12885
+Family 5 becomes hungry at 12886
+vendor refills the ice-cream 72 times at 12887
+Family 35 eats from the Pot at 12897
+Family 31 eats from the Pot at 12904
+Family 49 eats from the Pot at 12911
+Family 19 eats from the Pot at 12918
+Family 50 eats from the Pot at 12924
+Family 6 eats from the Pot at 12931
+Family 29 eats from the Pot at 12937
+Family 3 eats from the Pot at 12943
+Family 12 eats from the Pot at 12949
+Family 24 eats from the Pot at 12955
+Family 29 becomes hungry at 12992
+Family 35 becomes hungry at 13010
+vendor refills the ice-cream 73 times at 13013
+Family 31 becomes hungry at 13016
+Family 45 eats from the Pot at 13022
+Family 49 becomes hungry at 13024
+Family 49 eats from the Pot at 13026
+Family 47 eats from the Pot at 13029
+Family 34 eats from the Pot at 13032
+Family 19 becomes hungry at 13033
+Family 46 eats from the Pot at 13036
+Family 50 becomes hungry at 13037
+Family 19 eats from the Pot at 13037
+Family 13 eats from the Pot at 13040
+Family 50 eats from the Pot at 13042
+Family 23 eats from the Pot at 13045
+Family 36 eats from the Pot at 13048
+Family 6 becomes hungry at 13053
+Family 3 becomes hungry at 13064
+Family 12 becomes hungry at 13065
+Family 24 becomes hungry at 13072
+Family 47 becomes hungry at 13076
+Family 46 becomes hungry at 13094
+Family 45 becomes hungry at 13103
+Family 49 becomes hungry at 13142
+Family 13 becomes hungry at 13143
+Family 34 becomes hungry at 13147
+Family 23 becomes hungry at 13148
+Family 19 becomes hungry at 13155
+Family 50 becomes hungry at 13158
+vendor refills the ice-cream 74 times at 13159
+Family 36 becomes hungry at 13159
+Family 9 eats from the Pot at 13170
+Family 8 eats from the Pot at 13177
+Family 30 eats from the Pot at 13184
+Family 18 eats from the Pot at 13190
+Family 44 eats from the Pot at 13197
+Family 33 eats from the Pot at 13203
+Family 43 eats from the Pot at 13209
+Family 48 eats from the Pot at 13215
+Family 25 eats from the Pot at 13223
+Family 4 eats from the Pot at 13231
+Family 9 becomes hungry at 13244
+Family 33 becomes hungry at 13275
+Family 25 becomes hungry at 13276
+Family 8 has eaten n times. Hence, exits at 13292
+Family 30 becomes hungry at 13301
+Family 18 becomes hungry at 13304
+Family 44 becomes hungry at 13313
+Family 43 becomes hungry at 13321
+Family 48 becomes hungry at 13329
+Family 4 becomes hungry at 13346
+vendor refills the ice-cream 75 times at 13354
+Family 28 eats from the Pot at 13363
+Family 11 eats from the Pot at 13369
+Family 21 eats from the Pot at 13375
+Family 10 eats from the Pot at 13382
+Family 22 eats from the Pot at 13390
+Family 39 eats from the Pot at 13398
+Family 15 eats from the Pot at 13405
+Family 14 eats from the Pot at 13412
+Family 27 eats from the Pot at 13422
+Family 26 eats from the Pot at 13430
+Family 28 becomes hungry at 13479
+Family 10 becomes hungry at 13483
+Family 11 becomes hungry at 13484
+Family 14 becomes hungry at 13527
+Family 21 becomes hungry at 13487
+Family 27 becomes hungry at 13537
+Family 22 becomes hungry at 13504
+Family 15 becomes hungry at 13509
+Family 26 becomes hungry at 13509
+Family 39 becomes hungry at 13512
+vendor refills the ice-cream 76 times at 13565
+Family 7 eats from the Pot at 13574
+Family 37 eats from the Pot at 13581
+Family 20 eats from the Pot at 13588
+Family 42 eats from the Pot at 13607
+Family 38 eats from the Pot at 13614
+Family 32 eats from the Pot at 13620
+Family 2 eats from the Pot at 13626
+Family 17 eats from the Pot at 13633
+Family 41 eats from the Pot at 13642
+Family 5 eats from the Pot at 13649
+Family 7 becomes hungry at 13658
+Family 37 becomes hungry at 13659
+Family 20 becomes hungry at 13660
+Family 42 becomes hungry at 13719
+Family 38 becomes hungry at 13725
+Family 32 becomes hungry at 13731
+Family 2 becomes hungry at 13737
+Family 17 becomes hungry at 13749
+vendor refills the ice-cream 77 times at 13752
+Family 41 becomes hungry at 13755
+Family 29 eats from the Pot at 13761
+Family 5 becomes hungry at 13763
+Family 5 eats from the Pot at 13765
+Family 35 eats from the Pot at 13767
+Family 1 eats from the Pot at 13773
+Family 31 eats from the Pot at 13775
+Family 6 eats from the Pot at 13781
+Family 16 eats from the Pot at 13782
+Family 40 eats from the Pot at 13788
+Family 3 eats from the Pot at 13789
+Family 24 eats from the Pot at 13795
+Family 1 becomes hungry at 13855
+Family 6 has eaten n times. Hence, exits at 13867
+Family 29 becomes hungry at 13878
+Family 31 becomes hungry at 13881
+Family 40 becomes hungry at 13884
+Family 5 becomes hungry at 13885
+Family 35 becomes hungry at 13887
+Family 3 becomes hungry at 13893
+Family 16 becomes hungry at 13896
+Family 24 becomes hungry at 13908
+vendor refills the ice-cream 78 times at 13921
+Family 12 eats from the Pot at 13929
+Family 46 eats from the Pot at 13935
+Family 45 eats from the Pot at 13941
+Family 49 eats from the Pot at 13949
+Family 13 eats from the Pot at 13956
+Family 34 eats from the Pot at 13962
+Family 23 eats from the Pot at 13968
+Family 19 eats from the Pot at 13975
+Family 50 eats from the Pot at 13982
+Family 36 eats from the Pot at 13991
+Family 46 becomes hungry at 14022
+Family 13 becomes hungry at 14023
+Family 12 becomes hungry at 14041
+Family 45 becomes hungry at 14054
+Family 49 becomes hungry at 14064
+Family 34 becomes hungry at 14078
+Family 23 becomes hungry at 14081
+Family 19 becomes hungry at 14088
+Family 50 becomes hungry at 14096
+Family 36 becomes hungry at 14103
+vendor refills the ice-cream 79 times at 14118
+Family 9 eats from the Pot at 14127
+Family 33 eats from the Pot at 14134
+Family 25 eats from the Pot at 14142
+Family 30 eats from the Pot at 14150
+Family 18 eats from the Pot at 14156
+Family 44 eats from the Pot at 14164
+Family 43 eats from the Pot at 14171
+Family 48 eats from the Pot at 14177
+Family 4 eats from the Pot at 14188
+Family 28 eats from the Pot at 14202
+Family 9 becomes hungry at 14213
+Family 30 becomes hungry at 14233
+Family 18 becomes hungry at 14239
+Family 33 becomes hungry at 14247
+Family 25 becomes hungry at 14252
+Family 44 becomes hungry at 14268
+Family 43 becomes hungry at 14288
+Family 48 becomes hungry at 14292
+Family 4 becomes hungry at 14305
+Family 28 becomes hungry at 14318
+vendor refills the ice-cream 80 times at 14350
+Family 9 eats from the Pot at 14359
+Family 14 eats from the Pot at 14367
+Family 11 eats from the Pot at 14374
+Family 21 eats from the Pot at 14381
+Family 27 eats from the Pot at 14388
+Family 22 eats from the Pot at 14394
+Family 15 eats from the Pot at 14402
+Family 26 eats from the Pot at 14409
+Family 39 eats from the Pot at 14420
+Family 7 eats from the Pot at 14428
+Family 9 becomes hungry at 14474
+Family 14 becomes hungry at 14480
+Family 11 has eaten n times. Hence, exits at 14489
+Family 21 has eaten n times. Hence, exits at 14495
+vendor refills the ice-cream 81 times at 14499
+Family 27 becomes hungry at 14501
+Family 22 becomes hungry at 14509
+Family 37 eats from the Pot at 14511
+Family 39 becomes hungry at 14512
+Family 26 becomes hungry at 14512
+Family 22 eats from the Pot at 14513
+Family 2 eats from the Pot at 14539
+Family 26 eats from the Pot at 14516
+Family 39 eats from the Pot at 14517
+Family 42 eats from the Pot at 14524
+Family 38 eats from the Pot at 14524
+Family 7 becomes hungry at 14526
+Family 20 eats from the Pot at 14527
+Family 2 has eaten n times. Hence, exits at 14605
+Family 32 eats from the Pot at 14533
+Family 17 eats from the Pot at 14535
+Family 15 becomes hungry at 14535
+Family 37 becomes hungry at 14630
+Family 22 becomes hungry at 14661
+Family 39 becomes hungry at 14682
+Family 26 becomes hungry at 14686
+Family 42 becomes hungry at 14690
+Family 38 becomes hungry at 14696
+vendor refills the ice-cream 82 times at 14696
+Family 20 becomes hungry at 14700
+Family 41 eats from the Pot at 14708
+Family 31 eats from the Pot at 14716
+Family 32 becomes hungry at 14725
+Family 40 eats from the Pot at 14726
+Family 32 eats from the Pot at 14728
+Family 5 eats from the Pot at 14734
+Family 35 eats from the Pot at 14736
+Family 17 becomes hungry at 14740
+Family 17 eats from the Pot at 14742
+Family 3 eats from the Pot at 14744
+Family 16 eats from the Pot at 14745
+Family 24 eats from the Pot at 14751
+Family 40 becomes hungry at 14778
+Family 3 becomes hungry at 14799
+Family 41 becomes hungry at 14827
+Family 31 becomes hungry at 14830
+Family 32 becomes hungry at 14842
+Family 5 has eaten n times. Hence, exits at 14847
+Family 35 becomes hungry at 14853
+vendor refills the ice-cream 83 times at 14859
+Family 16 becomes hungry at 14860
+Family 17 becomes hungry at 14862
+Family 24 becomes hungry at 14869
+Family 46 eats from the Pot at 14870
+Family 24 eats from the Pot at 14872
+Family 45 eats from the Pot at 14877
+Family 49 eats from the Pot at 14881
+Family 34 eats from the Pot at 14883
+Family 23 eats from the Pot at 14888
+Family 19 eats from the Pot at 14891
+Family 50 eats from the Pot at 14897
+Family 36 eats from the Pot at 14897
+Family 10 eats from the Pot at 14903
+Family 23 becomes hungry at 14958
+Family 45 becomes hungry at 14960
+Family 46 becomes hungry at 14985
+Family 24 becomes hungry at 14987
+Family 34 becomes hungry at 14991
+vendor refills the ice-cream 84 times at 14995
+Family 49 becomes hungry at 14996
+Family 10 becomes hungry at 14996
+Family 30 eats from the Pot at 15005
+Family 19 becomes hungry at 15008
+Family 19 eats from the Pot at 15011
+Family 36 becomes hungry at 15011
+Family 36 eats from the Pot at 15017
+Family 25 eats from the Pot at 15020
+Family 33 eats from the Pot at 15011
+Family 43 eats from the Pot at 15025
+Family 50 becomes hungry at 15030
+Family 48 eats from the Pot at 15030
+Family 50 eats from the Pot at 15033
+Family 4 eats from the Pot at 15036
+Family 44 eats from the Pot at 15020
+Family 50 becomes hungry at 15103
+Family 30 becomes hungry at 15118
+Family 36 becomes hungry at 15129
+Family 19 has eaten n times. Hence, exits at 15134
+Family 33 becomes hungry at 15134
+vendor refills the ice-cream 85 times at 15140
+Family 43 becomes hungry at 15141
+Family 25 becomes hungry at 15141
+Family 48 becomes hungry at 15145
+Family 28 eats from the Pot at 15151
+Family 4 has eaten n times. Hence, exits at 15151
+Family 44 becomes hungry at 15157
+Family 47 eats from the Pot at 15159
+Family 44 eats from the Pot at 15160
+Family 29 eats from the Pot at 15169
+Family 1 eats from the Pot at 15170
+Family 7 eats from the Pot at 15179
+Family 15 eats from the Pot at 15179
+Family 37 eats from the Pot at 15188
+Family 39 eats from the Pot at 15196
+Family 22 eats from the Pot at 15201
+vendor refills the ice-cream 86 times at 15249
+Family 26 eats from the Pot at 15259
+Family 7 has eaten n times. Hence, exits at 15263
+Family 38 eats from the Pot at 15266
+Family 20 eats from the Pot at 15273
+Family 47 becomes hungry at 15276
+Family 44 becomes hungry at 15278
+Family 47 eats from the Pot at 15279
+Family 28 becomes hungry at 15280
+Family 13 eats from the Pot at 15281
+Family 44 eats from the Pot at 15281
+Family 1 becomes hungry at 15289
+Family 12 eats from the Pot at 15291
+Family 28 eats from the Pot at 15293
+Family 1 eats from the Pot at 15294
+Family 29 becomes hungry at 15294
+Family 3 eats from the Pot at 15294
+Family 22 becomes hungry at 15303
+Family 15 becomes hungry at 15279
+Family 37 becomes hungry at 15315
+Family 20 becomes hungry at 15338
+Family 38 becomes hungry at 15353
+Family 39 becomes hungry at 15359
+Family 13 has eaten n times. Hence, exits at 15426
+Family 3 has eaten n times. Hence, exits at 15430
+Family 26 becomes hungry at 15369
+Family 12 becomes hungry at 15431
+Family 47 becomes hungry at 15396
+Family 1 becomes hungry at 15443
+Family 28 becomes hungry at 15443
+Family 44 becomes hungry at 15451
+vendor refills the ice-cream 87 times at 15463
+Family 29 eats from the Pot at 15476
+Family 16 eats from the Pot at 15483
+Family 17 eats from the Pot at 15490
+Family 18 eats from the Pot at 15497
+Family 23 eats from the Pot at 15504
+Family 45 eats from the Pot at 15512
+Family 46 eats from the Pot at 15518
+Family 24 eats from the Pot at 15525
+Family 34 eats from the Pot at 15532
+Family 49 eats from the Pot at 15545
+Family 29 becomes hungry at 15580
+Family 24 becomes hungry at 15594
+Family 45 becomes hungry at 15600
+Family 16 becomes hungry at 15601
+Family 18 becomes hungry at 15604
+Family 17 becomes hungry at 15609
+Family 23 becomes hungry at 15619
+Family 46 becomes hungry at 15634
+vendor refills the ice-cream 88 times at 15637
+Family 34 becomes hungry at 15646
+Family 10 eats from the Pot at 15647
+Family 34 eats from the Pot at 15649
+Family 14 eats from the Pot at 15653
+Family 27 eats from the Pot at 15656
+Family 49 becomes hungry at 15661
+Family 9 eats from the Pot at 15664
+Family 49 eats from the Pot at 15665
+Family 50 eats from the Pot at 15667
+Family 30 eats from the Pot at 15673
+Family 36 eats from the Pot at 15673
+Family 33 eats from the Pot at 15674
+Family 30 becomes hungry at 15729
+Family 10 becomes hungry at 15764
+Family 34 becomes hungry at 15764
+Family 14 becomes hungry at 15767
+Family 27 becomes hungry at 15772
+Family 49 becomes hungry at 15781
+Family 50 becomes hungry at 15784
+Family 9 has eaten n times. Hence, exits at 15784
+Family 33 becomes hungry at 15788
+vendor refills the ice-cream 89 times at 15790
+Family 36 becomes hungry at 15795
+Family 25 eats from the Pot at 15804
+Family 42 eats from the Pot at 15814
+Family 31 eats from the Pot at 15821
+Family 35 eats from the Pot at 15828
+Family 32 eats from the Pot at 15835
+Family 41 eats from the Pot at 15842
+Family 40 eats from the Pot at 15851
+Family 22 eats from the Pot at 15859
+Family 15 eats from the Pot at 15867
+Family 37 eats from the Pot at 15876
+Family 32 becomes hungry at 15917
+Family 25 becomes hungry at 15921
+Family 42 becomes hungry at 15931
+Family 31 becomes hungry at 15938
+Family 35 becomes hungry at 15943
+Family 41 becomes hungry at 15949
+Family 40 becomes hungry at 15971
+Family 15 becomes hungry at 15979
+vendor refills the ice-cream 90 times at 15980
+Family 22 becomes hungry at 15981
+Family 37 has eaten n times. Hence, exits at 15990
+Family 20 eats from the Pot at 15991
+Family 38 eats from the Pot at 15999
+Family 39 eats from the Pot at 16008
+Family 12 eats from the Pot at 16016
+Family 26 eats from the Pot at 16025
+Family 47 eats from the Pot at 16033
+Family 1 eats from the Pot at 16041
+Family 28 eats from the Pot at 16049
+Family 44 eats from the Pot at 16058
+Family 29 eats from the Pot at 16066
+Family 20 has eaten n times. Hence, exits at 16110
+Family 12 becomes hungry at 16110
+Family 44 becomes hungry at 16114
+Family 38 becomes hungry at 16117
+Family 47 has eaten n times. Hence, exits at 16120
+Family 39 becomes hungry at 16128
+Family 26 has eaten n times. Hence, exits at 16142
+Family 1 has eaten n times. Hence, exits at 16156
+Family 28 becomes hungry at 16169
+vendor refills the ice-cream 91 times at 16172
+Family 29 becomes hungry at 16183
+Family 24 eats from the Pot at 16183
+Family 29 eats from the Pot at 16186
+Family 45 eats from the Pot at 16192
+Family 16 eats from the Pot at 16195
+Family 18 eats from the Pot at 16199
+Family 23 eats from the Pot at 16208
+Family 17 eats from the Pot at 16212
+Family 46 eats from the Pot at 16216
+Family 48 eats from the Pot at 16229
+Family 43 eats from the Pot at 16226
+Family 23 becomes hungry at 16277
+vendor refills the ice-cream 92 times at 16279
+Family 29 becomes hungry at 16308
+Family 24 becomes hungry at 16301
+Family 45 becomes hungry at 16313
+Family 18 has eaten n times. Hence, exits at 16317
+Family 30 eats from the Pot at 16318
+Family 24 eats from the Pot at 16320
+Family 45 eats from the Pot at 16321
+Family 16 has eaten n times. Hence, exits at 16315
+Family 27 eats from the Pot at 16332
+Family 34 eats from the Pot at 16334
+Family 14 eats from the Pot at 16336
+Family 49 eats from the Pot at 16343
+Family 17 becomes hungry at 16344
+Family 48 becomes hungry at 16350
+Family 17 eats from the Pot at 16357
+Family 48 eats from the Pot at 16360
+Family 33 eats from the Pot at 16363
+Family 46 becomes hungry at 16368
+Family 43 becomes hungry at 16375
+Family 34 becomes hungry at 16422
+Family 24 has eaten n times. Hence, exits at 16441
+Family 27 becomes hungry at 16451
+Family 30 becomes hungry at 16454
+Family 49 becomes hungry at 16455
+Family 14 becomes hungry at 16460
+Family 33 becomes hungry at 16461
+Family 48 becomes hungry at 16475
+Family 17 has eaten n times. Hence, exits at 16478
+Family 45 becomes hungry at 16480
+vendor refills the ice-cream 93 times at 16518
+Family 32 eats from the Pot at 16530
+Family 31 eats from the Pot at 16537
+Family 35 eats from the Pot at 16545
+Family 41 eats from the Pot at 16554
+Family 40 eats from the Pot at 16562
+Family 15 eats from the Pot at 16570
+Family 22 eats from the Pot at 16580
+Family 12 eats from the Pot at 16587
+Family 44 eats from the Pot at 16597
+Family 38 eats from the Pot at 16607
+Family 40 becomes hungry at 16633
+Family 32 becomes hungry at 16653
+Family 31 becomes hungry at 16655
+Family 35 becomes hungry at 16663
+Family 44 has eaten n times. Hence, exits at 16678
+Family 41 becomes hungry at 16683
+Family 15 has eaten n times. Hence, exits at 16685
+Family 22 becomes hungry at 16698
+Family 12 becomes hungry at 16702
+Family 38 has eaten n times. Hence, exits at 16725
+vendor refills the ice-cream 94 times at 16739
+Family 39 eats from the Pot at 16750
+Family 28 eats from the Pot at 16758
+Family 10 eats from the Pot at 16767
+Family 23 eats from the Pot at 16774
+Family 29 eats from the Pot at 16782
+Family 42 eats from the Pot at 16790
+Family 46 eats from the Pot at 16799
+Family 50 eats from the Pot at 16811
+Family 43 eats from the Pot at 16819
+Family 36 eats from the Pot at 16827
+Family 29 becomes hungry at 16837
+Family 10 becomes hungry at 16866
+Family 39 becomes hungry at 16873
+Family 28 has eaten n times. Hence, exits at 16874
+Family 23 becomes hungry at 16890
+Family 42 becomes hungry at 16905
+Family 46 becomes hungry at 16919
+Family 50 has eaten n times. Hence, exits at 16923
+Family 43 becomes hungry at 16935
+Family 36 becomes hungry at 16941
+vendor refills the ice-cream 95 times at 16957
+Family 25 eats from the Pot at 16967
+Family 34 eats from the Pot at 16975
+Family 27 eats from the Pot at 16982
+Family 30 eats from the Pot at 16993
+Family 49 eats from the Pot at 17001
+Family 14 eats from the Pot at 17008
+Family 33 eats from the Pot at 17017
+Family 48 eats from the Pot at 17025
+Family 45 eats from the Pot at 17035
+Family 40 eats from the Pot at 17043
+Family 25 becomes hungry at 17082
+Family 45 becomes hungry at 17087
+Family 34 has eaten n times. Hence, exits at 17090
+vendor refills the ice-cream 96 times at 17095
+Family 27 becomes hungry at 17100
+Family 32 eats from the Pot at 17106
+Family 30 becomes hungry at 17112
+Family 31 eats from the Pot at 17116
+Family 30 eats from the Pot at 17121
+Family 35 eats from the Pot at 17123
+Family 14 has eaten n times. Hence, exits at 17128
+Family 41 eats from the Pot at 17130
+Family 22 eats from the Pot at 17132
+Family 40 becomes hungry at 17133
+Family 49 becomes hungry at 17137
+Family 33 becomes hungry at 17140
+Family 40 eats from the Pot at 17141
+Family 12 eats from the Pot at 17140
+Family 49 eats from the Pot at 17140
+Family 48 becomes hungry at 17158
+Family 29 eats from the Pot at 17140
+Family 31 becomes hungry at 17162
+Family 32 has eaten n times. Hence, exits at 17198
+Family 49 becomes hungry at 17231
+Family 30 becomes hungry at 17242
+Family 35 becomes hungry at 17243
+Family 41 becomes hungry at 17254
+Family 29 has eaten n times. Hence, exits at 17284
+Family 22 has eaten n times. Hence, exits at 17255
+Family 40 becomes hungry at 17260
+vendor refills the ice-cream 97 times at 17295
+Family 12 has eaten n times. Hence, exits at 17265
+Family 23 eats from the Pot at 17308
+Family 46 eats from the Pot at 17318
+Family 43 eats from the Pot at 17328
+Family 36 eats from the Pot at 17339
+Family 25 eats from the Pot at 17347
+Family 45 eats from the Pot at 17360
+Family 27 eats from the Pot at 17370
+Family 42 eats from the Pot at 17383
+Family 33 eats from the Pot at 17395
+Family 10 eats from the Pot at 17410
+Family 25 has eaten n times. Hence, exits at 17428
+Family 23 has eaten n times. Hence, exits at 17429
+Family 46 becomes hungry at 17441
+Family 43 becomes hungry at 17454
+Family 36 has eaten n times. Hence, exits at 17461
+Family 27 becomes hungry at 17486
+Family 45 becomes hungry at 17486
+Family 33 becomes hungry at 17490
+Family 42 becomes hungry at 17499
+Family 10 has eaten n times. Hence, exits at 17529
+vendor refills the ice-cream 98 times at 17539
+Family 39 eats from the Pot at 17552
+Family 48 eats from the Pot at 17563
+Family 31 eats from the Pot at 17574
+Family 49 eats from the Pot at 17587
+Family 30 eats from the Pot at 17614
+Family 35 eats from the Pot at 17630
+Family 41 eats from the Pot at 17667
+Family 48 becomes hungry at 17675
+Family 48 eats from the Pot at 17679
+Family 31 has eaten n times. Hence, exits at 17693
+Family 39 has eaten n times. Hence, exits at 17697
+Family 40 eats from the Pot at 17713
+Family 46 eats from the Pot at 17716
+Family 49 has eaten n times. Hence, exits at 17718
+Family 30 becomes hungry at 17744
+Family 35 has eaten n times. Hence, exits at 17757
+Family 40 has eaten n times. Hence, exits at 17775
+Family 41 becomes hungry at 17796
+Family 46 has eaten n times. Hence, exits at 17803
+Family 48 has eaten n times. Hence, exits at 17812
+vendor refills the ice-cream 99 times at 17836
+Family 43 eats from the Pot at 17854
+Family 45 eats from the Pot at 17867
+Family 33 eats from the Pot at 17878
+Family 42 eats from the Pot at 17887
+Family 27 eats from the Pot at 17900
+Family 30 eats from the Pot at 17907
+Family 41 eats from the Pot at 17914
+Family 43 has eaten n times. Hence, exits at 17980
+Family 45 has eaten n times. Hence, exits at 17993
+Family 33 has eaten n times. Hence, exits at 18000
+Family 42 has eaten n times. Hence, exits at 18006
+Family 41 becomes hungry at 18011
+Family 41 eats from the Pot at 18012
+Family 27 becomes hungry at 18020
+Family 27 eats from the Pot at 18022
+Family 30 has eaten n times. Hence, exits at 18022
+Family 41 has eaten n times. Hence, exits at 18127
+Family 27 becomes hungry at 18137
+Family 27 eats from the Pot at 18138
+Family 27 has eaten n times. Hence, exits at 18251
+Last Thread Exits at time : - 18458
+vendor refills the ice-cream 100 times at 18610
