@@ -79,7 +79,7 @@ int main()
 
     // Created the output file by parent process
     FILE* out_file = fopen("OutMain.txt","w");
-    for (int i=0;i<k;i++){
+    for (int i=1;i<=k;i++){
         fprintf(out_file,"P%d :- ",i);
         for (int j=i;j<=n;j+=k){
             if (arr[j-1]) {
