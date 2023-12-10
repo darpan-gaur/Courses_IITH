@@ -1,0 +1,9 @@
+add x6, x10, x5
+ld x7, 0(x6)
+ld x29, 8(x6)
+sub x30, x7, x29
+add x31, x11, x5
+sd x30, 0(x31)
+ld x11, 0(x12)
+addi x5, x6, 4
+xori x14, x11, 4

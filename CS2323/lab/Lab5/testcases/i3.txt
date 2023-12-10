@@ -1,0 +1,7 @@
+add s1, x6, x18
+sub x28, t1, s1
+xor x20, x12, s1
+ld x22, 8(s1)
+add x28, x7, x20
+ld x31, 0(x20)
+and x6, x31, x22

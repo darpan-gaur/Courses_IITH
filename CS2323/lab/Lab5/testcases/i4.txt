@@ -1,0 +1,6 @@
+ld x9, 32(x31)
+add x31, x7, x18
+xor x20, x9, x31
+sub x22, x31, x20
+and x31, x20, x22
+sd x22, 64(x31)

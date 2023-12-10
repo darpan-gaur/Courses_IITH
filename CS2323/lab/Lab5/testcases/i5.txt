@@ -1,0 +1,6 @@
+ld s4, 0(x9)
+add t3, s4, t0
+ld t0, 8(x28)
+and x7, s4, x28
+xor s4, x7, s1
+sd s1, 32(x7)

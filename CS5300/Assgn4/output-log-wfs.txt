@@ -1,0 +1,54 @@
+Thr1's write of 8 on location 0 at 416
+Thr0's write of 47 on location 13 at 609
+Thr3's write of 33 on location 7 at 739
+Thr2's write of 93 on location 11 at 775
+Thr0's write of 26 on location 0 at 816
+Thr1's write of 38 on location 12 at 825
+Thr3's write of 81 on location 5 at 860
+Thr2's write of 63 on location 16 at 866
+Thr1's write of 78 on location 4 at 907
+Thr2's write of 94 on location 18 at 937
+Snapshot Thr0's snapshot: 26-0-0-0-78-81-0-33-0-0-0-93-38-47-0-0-63-0-94-0-which finished at 958
+Thr1's write of 59 on location 8 at 976
+Thr2's write of 69 on location 6 at 1003
+Thr0's write of 80 on location 5 at 1039
+Snapshot Thr0's snapshot: 26-0-0-0-78-80-69-33-59-0-0-93-38-47-0-0-63-0-94-0-which finished at 1040
+Thr2's write of 29 on location 3 at 1070
+Thr0's write of 8 on location 7 at 1119
+Thr2's write of 62 on location 17 at 1142
+Thr0's write of 5 on location 11 at 1187
+Thr2's write of 81 on location 7 at 1209
+Thr0's write of 8 on location 2 at 1268
+Thr2's write of 73 on location 13 at 1277
+Thr0's write of 98 on location 10 at 1335
+Thr2's write of 50 on location 13 at 1343
+Thr0's write of 20 on location 15 at 1402
+Thr2's write of 24 on location 19 at 1411
+Thr0's write of 33 on location 14 at 1468
+Thr0's write of 55 on location 2 at 1534
+Thr0's write of 30 on location 6 at 1603
+Thr0's write of 32 on location 0 at 1669
+Thr0's write of 30 on location 9 at 1734
+Thr0's write of 26 on location 3 at 1801
+Thr0's write of 45 on location 0 at 1867
+Thr0's write of 77 on location 7 at 1937
+Thr0's write of 54 on location 13 at 2004
+Thr3's write of 4 on location 3 at 1001068
+Thr1's write of 58 on location 14 at 1001089
+Thr3's write of 28 on location 7 at 1001156
+Thr1's write of 63 on location 1 at 1001198
+Thr3's write of 47 on location 16 at 1001227
+Snapshot Thr0's snapshot: 45-63-55-4-78-80-30-28-59-30-98-5-38-54-58-20-47-62-94-24-which finished at 1001231
+Thr1's write of 77 on location 8 at 1001269
+Snapshot Thr0's snapshot: 45-63-55-4-9-80-30-28-77-30-98-5-38-54-58-20-47-62-94-24-which finished at 1001315
+Thr3's write of 9 on location 4 at 1001320
+Thr1's write of 35 on location 14 at 1001339
+Thr3's write of 94 on location 8 at 1001391
+Thr1's write of 46 on location 10 at 1001408
+Snapshot Thr0's snapshot: 45-63-55-4-9-80-30-28-94-30-46-5-38-54-35-20-47-62-94-24-which finished at 1001414
+Thr3's write of 82 on location 10 at 1001460
+Thr1's write of 47 on location 14 at 1001483
+Thr3's write of 61 on location 6 at 1001530
+Thr1's write of 90 on location 3 at 1001552
+Thr3's write of 60 on location 12 at 1001601
+Thr1's write of 38 on location 1 at 1001621

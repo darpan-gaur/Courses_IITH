@@ -1,0 +1,3 @@
+add x17, x8, x9
+sub x13, x17, x5
+xor x20, x13, x13

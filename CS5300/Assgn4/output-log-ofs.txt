@@ -1,0 +1,41 @@
+Thr3's write of 24 on location 0 at 285
+Thr0's write of 96 on location 14 at 287
+Thr2's write of 85 on location 17 at 421
+Thr1's write of 86 on location 11 at 426
+Thr0's write of 24 on location 19 at 657
+Thr0's write of 23 on location 8 at 718
+Thr1's write of 58 on location 3 at 756
+Thr0's write of 55 on location 1 at 775
+Snapshot Thr0's snapshot: 24-55-0-58-0-0-0-0-23-0-0-86-0-0-96-0-0-85-0-24-which finished at 804
+Thr0's write of 12 on location 19 at 831
+Snapshot Thr0's snapshot: 24-55-0-58-0-0-0-0-23-0-0-86-0-0-96-0-0-85-0-12-which finished at 887
+Thr3's write of 19 on location 14 at 897
+Thr3's write of 21 on location 18 at 956
+Thr3's write of 45 on location 3 at 1013
+Thr3's write of 45 on location 6 at 1069
+Thr3's write of 36 on location 3 at 1125
+Thr3's write of 74 on location 12 at 1182
+Thr3's write of 76 on location 19 at 1240
+Thr3's write of 56 on location 1 at 1297
+Thr3's write of 46 on location 5 at 1354
+Thr3's write of 72 on location 14 at 1410
+Thr3's write of 26 on location 5 at 1466
+Thr3's write of 63 on location 11 at 1522
+Thr3's write of 11 on location 4 at 1579
+Thr3's write of 33 on location 5 at 1636
+Thr3's write of 12 on location 8 at 1692
+Thr3's write of 40 on location 4 at 1748
+Thr3's write of 36 on location 2 at 1806
+Thr2's write of 64 on location 14 at 1000964
+Thr0's write of 49 on location 10 at 1001028
+Thr0's write of 8 on location 0 at 1001114
+Snapshot Thr0's snapshot: 8-56-36-36-40-33-45-0-12-0-49-63-74-0-64-0-0-85-21-76-which finished at 1001147
+Thr0's write of 26 on location 15 at 1001213
+Snapshot Thr0's snapshot: 8-56-36-36-40-33-45-0-12-0-49-63-74-0-64-26-0-85-21-76-which finished at 1001255
+Thr0's write of 73 on location 17 at 1001277
+Snapshot Thr0's snapshot: 8-56-36-36-40-33-45-0-12-0-49-63-74-0-64-26-0-73-21-76-which finished at 1001338
+Thr0's write of 56 on location 14 at 1001346
+Thr0's write of 91 on location 9 at 1001408
+Thr0's write of 12 on location 15 at 1001469
+Thr0's write of 10 on location 6 at 1001530
+Thr0's write of 67 on location 19 at 1001592

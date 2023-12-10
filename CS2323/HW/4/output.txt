@@ -1,0 +1,1 @@
+lines,ways,blocks,hitRate,nHits,nMisses,totalAccesses,

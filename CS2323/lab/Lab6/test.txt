@@ -1,0 +1,14 @@
+<SizeOfCache> 
+<BlockSize> 
+<Associativity> 
+<ReplacementPolicy (FIFO/LRU/RANDOM)> 
+<WritePolicy (WB/WT)>
+
+Cahce->
+    set 
+    line
+    valid
+    dirty 
+    clock counter
+
+https://github.com/levindoneto/Cache-Simulator

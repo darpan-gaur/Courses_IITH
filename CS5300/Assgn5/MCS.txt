@@ -1,0 +1,120 @@
+1 th CS Entry Request at 280070 by thread 1
+1 th CS Entry at 349677 by thread 1
+1 th CS Entry Request at 360509 by thread 0
+1 th CS Exit Request at 453013 by thread 1
+1 th CS Entry Request at 280070 by thread 1
+1 th CS Entry at 454173 by thread 0
+2 th CS Entry Request at 512067 by thread 1
+1 th CS Exit Request at 522519 by thread 0
+1 th CS Entry Request at 360509 by thread 0
+2 th CS Entry at 523876 by thread 1
+2 th CS Exit Request at 580306 by thread 1
+2 th CS Entry Request at 580809 by thread 0
+2 th CS Entry at 581898 by thread 0
+2 th CS Entry Request at 512067 by thread 1
+2 th CS Exit Request at 637612 by thread 0
+2 th CS Entry Request at 580809 by thread 0
+3 th CS Entry Request at 638641 by thread 1
+3 th CS Entry at 639412 by thread 1
+3 th CS Entry Request at 694946 by thread 0
+3 th CS Exit Request at 695264 by thread 1
+3 th CS Entry Request at 638641 by thread 1
+3 th CS Entry at 697493 by thread 0
+4 th CS Entry Request at 753907 by thread 1
+3 th CS Exit Request at 763245 by thread 0
+4 th CS Entry at 766408 by thread 1
+3 th CS Entry Request at 694946 by thread 0
+4 th CS Exit Request at 824565 by thread 1
+4 th CS Entry Request at 753907 by thread 1
+4 th CS Entry Request at 828993 by thread 0
+4 th CS Entry at 829992 by thread 0
+5 th CS Entry Request at 881693 by thread 1
+4 th CS Exit Request at 887520 by thread 0
+4 th CS Entry Request at 828993 by thread 0
+5 th CS Entry at 888165 by thread 1
+5 th CS Entry Request at 947978 by thread 0
+5 th CS Exit Request at 955998 by thread 1
+5 th CS Entry Request at 881693 by thread 1
+5 th CS Entry at 956747 by thread 0
+6 th CS Entry Request at 1015270 by thread 1
+5 th CS Exit Request at 1016312 by thread 0
+5 th CS Entry Request at 947978 by thread 0
+6 th CS Entry at 1016978 by thread 1
+6 th CS Entry Request at 1075853 by thread 0
+6 th CS Exit Request at 1076444 by thread 1
+6 th CS Entry Request at 1015270 by thread 1
+6 th CS Entry at 1077114 by thread 0
+7 th CS Entry Request at 1135760 by thread 1
+6 th CS Exit Request at 1136555 by thread 0
+6 th CS Entry Request at 1075853 by thread 0
+7 th CS Entry at 1137175 by thread 1
+7 th CS Entry Request at 1195809 by thread 0
+7 th CS Exit Request at 1203490 by thread 1
+7 th CS Entry Request at 1135760 by thread 1
+7 th CS Entry at 1204168 by thread 0
+8 th CS Entry Request at 1262924 by thread 1
+7 th CS Exit Request at 1263481 by thread 0
+7 th CS Entry Request at 1195809 by thread 0
+8 th CS Entry at 1264158 by thread 1
+8 th CS Entry Request at 1322902 by thread 0
+8 th CS Exit Request at 1323547 by thread 1
+8 th CS Entry Request at 1262924 by thread 1
+8 th CS Entry at 1324179 by thread 0
+9 th CS Entry Request at 1382551 by thread 1
+8 th CS Exit Request at 1383470 by thread 0
+8 th CS Entry Request at 1322902 by thread 0
+9 th CS Entry at 1384131 by thread 1
+9 th CS Entry Request at 1442817 by thread 0
+9 th CS Exit Request at 1443412 by thread 1
+9 th CS Entry Request at 1382551 by thread 1
+9 th CS Entry at 1444057 by thread 0
+10 th CS Entry Request at 1502511 by thread 1
+9 th CS Exit Request at 1503406 by thread 0
+9 th CS Entry Request at 1442817 by thread 0
+10 th CS Entry at 1504063 by thread 1
+10 th CS Entry Request at 1562536 by thread 0
+10 th CS Exit Request at 1563455 by thread 1
+10 th CS Entry Request at 1502511 by thread 1
+10 th CS Entry at 1564071 by thread 0
+11 th CS Entry Request at 1622785 by thread 1
+10 th CS Exit Request at 1623679 by thread 0
+10 th CS Entry Request at 1562536 by thread 0
+11 th CS Entry at 1624316 by thread 1
+11 th CS Entry Request at 1682556 by thread 0
+11 th CS Exit Request at 1683037 by thread 1
+11 th CS Entry Request at 1622785 by thread 1
+11 th CS Entry at 1683698 by thread 0
+12 th CS Entry Request at 1741805 by thread 1
+11 th CS Exit Request at 1742715 by thread 0
+11 th CS Entry Request at 1682556 by thread 0
+12 th CS Entry at 1743308 by thread 1
+12 th CS Entry Request at 1801435 by thread 0
+12 th CS Exit Request at 1808393 by thread 1
+12 th CS Entry Request at 1741805 by thread 1
+12 th CS Entry at 1809041 by thread 0
+13 th CS Entry Request at 1866977 by thread 1
+12 th CS Exit Request at 1868364 by thread 0
+12 th CS Entry Request at 1801435 by thread 0
+13 th CS Entry at 1868998 by thread 1
+13 th CS Entry Request at 1959876 by thread 0
+13 th CS Exit Request at 1967238 by thread 1
+13 th CS Entry Request at 1866977 by thread 1
+13 th CS Entry at 1967880 by thread 0
+14 th CS Entry Request at 2026159 by thread 1
+13 th CS Exit Request at 2026388 by thread 0
+13 th CS Entry Request at 1959876 by thread 0
+14 th CS Entry at 2027895 by thread 1
+14 th CS Exit Request at 2093846 by thread 1
+14 th CS Entry Request at 2026159 by thread 1
+14 th CS Entry Request at 2110549 by thread 0
+14 th CS Entry at 2111245 by thread 0
+15 th CS Entry Request at 2153413 by thread 1
+14 th CS Exit Request at 2179575 by thread 0
+14 th CS Entry Request at 2110549 by thread 0
+15 th CS Entry at 2186862 by thread 1
+15 th CS Entry Request at 2238972 by thread 0
+15 th CS Exit Request at 2315929 by thread 1
+15 th CS Entry Request at 2153413 by thread 1
+15 th CS Entry at 2319737 by thread 0
+15 th CS Exit Request at 2377688 by thread 0
+15 th CS Entry Request at 2238972 by thread 0
