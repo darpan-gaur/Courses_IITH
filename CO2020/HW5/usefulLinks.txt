@@ -1,0 +1,1 @@
+https://www.wolframalpha.com/input/?i=D%5BD%5BInterpolatingPolynomial%5B%7B%28-2*h%2Cy0%29%2C%28-1*h%2Cy1%29%2C%280*h%2Cy2%29%2C%281*h%2Cy3%29%2C%282*h%2Cy4%29%7D%2Cx%5D%2Cx%5D%2Cx%5D+%2F.+x%3D0
