@@ -1,0 +1,35 @@
+Material_Props:
+    Young's_modulus:   210000000
+    Moment_of_inertia: 4e-4
+
+No._nodes:             3
+Nodal_coords:
+    0.0000
+    6.0000
+    12.0000
+
+No._elements:                    2
+No._nodes_per_elements:          2
+Element_connectivity:
+     1  2
+     2  3
+
+No._nodes_with_prescribed_DOFs:  2
+Node_#, DOF#, Value:
+   1 1 0.0
+   3 1 0.0
+
+No._nodes_with_spring_stiffness: 1
+Node_#, Stiffness (k):
+   2 1000
+
+No._nodes_with_prescribed_moments: 0
+No._prescribed_bodyforces: 2
+    type: linear
+    Coordinate, Value:
+        0.0, 10.0
+        6.0, 0.0
+    type: linear
+    Coordinate, Value:
+        6.0, 0.0
+        12.0, 10.0

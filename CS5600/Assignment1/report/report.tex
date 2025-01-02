@@ -1,0 +1,191 @@
+% write document class
+\documentclass[12pt]{article}
+
+% write packages
+\usepackage{graphicx}
+\usepackage{setspace}
+\usepackage{booktabs}
+
+
+% write title, assignment 1, 4 authors and date
+\title{\textbf{\Huge CS5600 \\ Assigment 1 } \\ \textbf{Expert Recommendation System}}
+\author{}
+\date{}
+
+
+\begin{document}
+\maketitle
+
+% Group 3
+\begin{center}
+    \textbf{\Large Group 3} \\
+    \textbf{\large Members} \\
+\end{center} 
+
+% make name rollnuber table
+\begin{center}
+\begin{tabular}{ |c|c| }
+\hline
+\textbf{Name} & \textbf{Roll Number}  \\
+\hline
+\hline
+Kritik Agarwal  & CS23MTECH11009 \\
+\hline
+Darpan Gaur  & C021BTECH11004  \\
+\hline
+Hari Priyanka Allam & CC23M24P100001 \\
+\hline
+Maloth David  &  	CS21BTECH11035  \\
+\hline
+\end{tabular}
+\end{center}
+
+\newpage
+
+% Exercise 1
+\section*{Exercise 1}
+The top 3 answerers and the top 3 tags, along with their answer count and annotation count, are listed below:
+
+\subsection*{Top 3 Answerers}
+\begin{center}
+\begin{tabular}{ |p{4cm}|p{4cm}| }
+\hline
+\textbf{OwnerUserId} & \textbf{AnswerCount} \\
+\hline
+9113   & 2839 \\
+\hline
+177980 & 2326 \\
+\hline
+1204   & 2043 \\
+\hline
+\end{tabular}
+\end{center}
+
+\subsection*{Top 3 Tags}
+\begin{center}
+\begin{tabular}{ |p{4cm}|p{4cm}| }
+\hline
+\textbf{Tags} & \textbf{TagCount} \\
+\hline
+design & 5162 \\
+\hline
+c\#    & 4931 \\
+\hline
+java   & 4928 \\
+\hline
+\end{tabular}
+\end{center}
+
+% Exercise 2
+\section*{Exercise 2}
+The dimension of the Expert utility matrix is: \textbf{(1163, 974)}
+
+% Exercise 3
+\section*{Exercise 3}
+
+\subsection*{Utility Matrix}
+\begin{itemize}
+    \item Summation value: \textbf{41403}
+    \item Highest row sum: \textbf{1164}
+    \item Highest column sum: \textbf{1403}
+\end{itemize}
+
+\subsection*{Train and Test Data}
+\begin{itemize}
+    \item Train matrix summation value: \textbf{28713}
+    \item Test matrix dimension: \textbf{(174, 146)}
+    \item Test matrix summation value: \textbf{899}
+\end{itemize}
+
+% Exercise 4
+\section*{Exercise 4}
+
+\subsection*{Performance of Item-Item and User-User Recommendation Systems}
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline
+Method & Rating Prediction Function & Metric & N=2 & N=3 & N=5\\
+\hline
+Item-Item & Simple average & RMSE & 0.3078 & 0.3078 & 0.3078 \\
+\hline
+ & Weighted average & RMSE & 0.3078 & 0.3078 & 0.3078 \\
+\hline
+User-User & Simple average & RMSE & 0.3078 & 0.3078 & 0.3078 \\
+\hline
+ & Weighted average & RMSE & 0.3078 & 0.3078 & 0.3078 \\
+\hline
+\end{tabular}
+\end{center}
+
+% Exercise 5
+\section*{Exercise 5}
+
+\subsection*{Performance of Item-Item and User-User Recommendation Systems}
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline
+Method & Metric & K=2 & K=5 & K=10 \\
+\hline
+Without Regularization & RMSE & 0.874779 & 0.734253 & 0.591676 \\
+\hline
+   Without Regularization  & RMSE & & & \\
+   $\lambda_1 = 0.001$, $\lambda_2 =$ 0.003 & & 0.880756 & 0.739713 & 0.595585 \\ 
+\hline
+$ \lambda_1 = 0.05$, $\lambda_2 =$ 0.05 & RMSE & 0.883248 & 0.742098 & 0.589883 \\
+\hline
+$ \lambda_1 = 0.50$, $\lambda_2 =$ 0.75 & RMSE & 0.878045 & 0.748843 & 0.594022 \\
+\hline
+\end{tabular}
+\end{center}
+
+\section*{Exercise 6}
+
+\subsection*{KNN-Baseline surprise library vs Exercise 4}
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+Algorithm & Method & RMSE for N=2 & RMSE for N=3 & RMSE for N=5 \\
+\hline
+\hline
+Item-Item & Your method & 0.3078 & 0.3078 & 0.3078 \\
+
+ & Surprise library & 0.3058 & 0.3058 & 0.3058 \\
+\hline
+User-User & Your method & 0.3078 & 0.3078 & 0.3078 \\
+ & Surprise library & 0.3058 & 0.3058 & 0.3058 \\
+\hline
+\end{tabular}
+\end{center}
+
+% bullet points
+\begin{itemize}
+    \item The RMSE values for the methods implemented by us and the surprise library are almost similar.
+    \item For surprise library, the RMSE values are slightly lower than the values obtained by us.
+    \item This is becasue KNN Baseline also do bais correction, while our implementation does not.
+\end{itemize}
+
+\subsection*{SVD surprise library vs Exercise 5}
+
+\begin{center}
+    \begin{tabular}{|c|c|c|c|c|c|}
+    \hline
+    Method & RMSE for K=2 &RMSE for K=5 & RMSE for K=10\\
+    \hline
+    Your Method & 0.874779 & 0.734253 & 0.591676 \\
+    \hline
+    Surprise & 0.3058  & 0.3058  & 0.3058  \\
+    \hline
+    
+\end{tabular}
+\end{center}
+
+\begin{itemize}
+    \item Did grid serach on hyperparameters, n\_epochs, reg\_pu and reg\_qi.
+    \item Taken lr\_all = 0.0005 as mentined in exercise 5, n\_epochs = 1000, reg\_pu = 0.05, and reg\_qi=0.05.
+\end{itemize}
+
+\end{document}
+

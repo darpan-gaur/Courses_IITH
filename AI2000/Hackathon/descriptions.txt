@@ -1,0 +1,58 @@
+UID: unique identifier for the land
+Target: The target to predict one of "low", "medium" or "high"
+UndergroundStorageSqft: Area of underground storage facilities for produce
+WaterAccessPoints:  Number of water access points on the field. Seasonal sources add 0.5
+WaterAccessPointsCalc: calculated value of number of water access points. Seasonal sources add 0.5
+CropSpeciesVariety: Number of different crop species or varieties planted.
+SoilFertilityType: Type of soil fertility (low, medium, high)
+FieldShadeCover:  type of shade cover useed on the field
+PrimaryCropAreaSqft: Area dedicated to the primary crop.
+TotalCultivatedAreaSqft: Total cultivated area in square feet.
+CultivatedAreaSqft1: Area suitable for cultivation in square feet
+PerimeterGuardPlantsArea: Area used for perimeter guard plants.
+PrimaryCropareainsqft2: Total area used for farming.
+CultivatedAndWildArea: Area of total region including uncultivated zones
+TotalAreaSqft: Area of total field including uncultivated zones
+NationalRegionCode: Code for agricultural region
+NumberGreenHouses: Number of greenhouses on the farm.
+MainIrrigationSystemCount: Count of main irrigation systems.
+FarmVehicleCount: Number of farm vehicles.
+FarmEquipmentArea: Total area for all farm equipment
+HasPestControl: Indicates presence of a pest control facility.
+Latitude: latitude of midpoint of field
+Longitude: longitude of midpoint of field
+FieldSizeSqft: Total size of the field in square feet.
+WaterReservoirCount: Number of water reservoirs.
+TotalReservoirSize: Total size of all water reservoirs
+ReservoirType: Type of water reservoir (e.g., pond, tank)
+ReservoirWithFilter: Reservoirs equipped with filtration systems.
+NaturalLakePresence: Indicates presence of a natural lake.
+RawLocationId: raw anonymized ward id and village id
+TownId: town/city/village in which the property is located
+DistrictId: district in which field is located
+FarmingCommunityId: neighbourhood in which the farm is located
+AgriculturalPostalZone: Postal zone of field location.
+StorageAndFacilityCount: Number of storage facilities or farm rooms.
+PartialIrrigationSystemCount: Number of partial irrigation systems
+FarmingUnitCount: Number of farming units on the field
+FarmShedAreaSqft: Area for farm shed/tool storage in sqft
+HarvestStorageSqft: Area of harvest storage shed in sqft
+FieldEstablishedYear: Year the field was first cultivated
+NumberOfFarmingZones: Number of distinct farming zones within the field.
+HasGreenHouse: indicates if there is a greenhouse present
+TaxAgrarianValue: Taxable value of agrarian produce of the field
+TaxLandValue: Taxable land valuation of the field
+TotalValue: Total taxable valuation of land and agrarian produce
+TotalTaxAssessed: total assessed tax in valuation year
+ValuationYear: year of assessment of land and agrarian produce tax
+TaxOverdueStatus:  indicates that there are overdue taxes on land or produce
+TaxOverdueYear: indicates for which year taxes are due
+AgricultureZoningCode:  zoning code specific to agriculture
+OtherZoningCode:  zoning code for other land usage
+TypeOfIrrigationSystem: {1 : drip irrigation , 6 : surface irrigation, 2 : no irrigation, 5 : overhead irrigation, 4: trickle irrigation, 3: general irrigation}
+CropFieldConfiguration: {3 : Flat Field,5 : Compact Rows,1 : hi-tech farming,2 : traditional rows,4: vineyard rows,6: wide fields}
+FarmClassification: {2: Medium scale farm,1: small scale farm}
+HarvestProcessingType: {9 : low temperature drying system,1 : centralized processing system,3 : forced air drying,2 : floor based processing unit,12 : gravity sepration,8 : heat pump drying system,11 : hot water extraction system,5 : no processing,10 : other processing methods,7 : radiant heat processing,6 : solar powered processing,4 : general processing system}
+LandUsageType: {1:	Single residential plot for small-scale farming,2:	High-density land usage, potentially urban agriculture,3:	Clustered land plots used for community gardens or small farms,4:	Multifamily residential with shared agricultural plots,5:	Mobile housing with adjacent agricultural space,6:Planned agricultural communities or farm developments,7:Multifamily housing with communal agricultural areas,8:	Triplex units with shared or adjacent crop fields,9:Cooperative housing with collective agricultural land use,10:	Prefabricated homes with land for farming or gardening,11:	General residential land with mixed-use agricultural potential,12:	Mixed-use areas that could support urban farms or rooftop agriculture,13: Row-style housing with individual or shared gardens,14:	Commercial-residential mixed-use land that may incorporate small-scale agricultural activities}
+FieldZoneLevel: {1 : ground level}
+FieldConstructionType: {1:Frame structures used for greenhouses or crop shelters,2:Masonry-built storage units or barns,3:Concrete structures for durable farm facilities or irrigation systems,4:Metal structures used for silos or storage sheds}
