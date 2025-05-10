@@ -1,0 +1,13 @@
+Hyper Threading
+
+
+Cuda Samples: -
+git clone https://github.com/NVIDIA/cuda-samples.git
+
+Excel sheet: -
+https://docs.google.com/spreadsheets/d/1Hvz1S7wyuJIPe-rN0dTlbrjfD7jyqQMIqq-ebtE_4D0/edit#gid=0
+
+Slides: -
+https://www.cse.iitm.ac.in/~rupesh/events/gpu2023/slides/
+
+
