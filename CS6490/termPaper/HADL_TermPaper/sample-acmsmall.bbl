@@ -1,0 +1,104 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{7}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{} and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showURL}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showURL #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[Cai et~al\mbox{.}(2024)]%
+        {Gemini}
+\bibfield{author}{\bibinfo{person}{Jingwei Cai}, \bibinfo{person}{Zuotong Wu}, \bibinfo{person}{Sen Peng}, \bibinfo{person}{Yuchen Wei}, \bibinfo{person}{Zhanhong Tan}, \bibinfo{person}{Guiming Shi}, \bibinfo{person}{Mingyu Gao}, {and} \bibinfo{person}{Kaisheng Ma}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Gemini: Mapping and Architecture Co-exploration for Large-scale DNN Chiplet Accelerators}. In \bibinfo{booktitle}{\emph{2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA)}}. \bibinfo{pages}{156--171}.
+\newblock
+\href{https://doi.org/10.1109/HPCA57654.2024.00022}{doi:\nolinkurl{10.1109/HPCA57654.2024.00022}}
+
+
+\bibitem[Krishnan et~al\mbox{.}(2021)]%
+        {siam}
+\bibfield{author}{\bibinfo{person}{Gokul Krishnan}, \bibinfo{person}{Sumit~K. Mandal}, \bibinfo{person}{Manvitha Pannala}, \bibinfo{person}{Chaitali Chakrabarti}, \bibinfo{person}{Jae-Sun Seo}, \bibinfo{person}{Umit~Y. Ogras}, {and} \bibinfo{person}{Yu Cao}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{SIAM: Chiplet-based Scalable In-Memory Acceleration with Mesh for Deep Neural Networks}.
+\newblock \bibinfo{journal}{\emph{ACM Trans. Embed. Comput. Syst.}} \bibinfo{volume}{20}, \bibinfo{number}{5s}, Article \bibinfo{articleno}{68} (\bibinfo{date}{Sept.} \bibinfo{year}{2021}), \bibinfo{numpages}{24}~pages.
+\newblock
+\showISSN{1539-9087}
+\href{https://doi.org/10.1145/3476999}{doi:\nolinkurl{10.1145/3476999}}
+
+
+\bibitem[Narang et~al\mbox{.}(2024)]%
+        {teflon}
+\bibfield{author}{\bibinfo{person}{Gaurav Narang}, \bibinfo{person}{Chukwufumnanya Ogbogu}, \bibinfo{person}{Janardhan~Rao Doppa}, {and} \bibinfo{person}{Partha~Pratim Pande}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{TEFLON: Thermally Efficient Dataflow-aware 3D NoC for Accelerating CNN Inferencing on Manycore PIM Architectures}.
+\newblock \bibinfo{journal}{\emph{ACM Trans. Embed. Comput. Syst.}} \bibinfo{volume}{23}, \bibinfo{number}{5}, Article \bibinfo{articleno}{78} (\bibinfo{date}{Aug.} \bibinfo{year}{2024}), \bibinfo{numpages}{23}~pages.
+\newblock
+\showISSN{1539-9087}
+\href{https://doi.org/10.1145/3665279}{doi:\nolinkurl{10.1145/3665279}}
+
+
+\bibitem[Shao et~al\mbox{.}(2019)]%
+        {Simba}
+\bibfield{author}{\bibinfo{person}{Yakun~Sophia Shao}, \bibinfo{person}{Jason Clemons}, \bibinfo{person}{Rangharajan Venkatesan}, \bibinfo{person}{Brian Zimmer}, \bibinfo{person}{Matthew Fojtik}, \bibinfo{person}{Nan Jiang}, \bibinfo{person}{Ben Keller}, \bibinfo{person}{Alicia Klinefelter}, \bibinfo{person}{Nathaniel Pinckney}, \bibinfo{person}{Priyanka Raina}, \bibinfo{person}{Stephen~G. Tell}, \bibinfo{person}{Yanqing Zhang}, \bibinfo{person}{William~J. Dally}, \bibinfo{person}{Joel Emer}, \bibinfo{person}{C.~Thomas Gray}, \bibinfo{person}{Brucek Khailany}, {and} \bibinfo{person}{Stephen~W. Keckler}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Simba: Scaling Deep-Learning Inference with Multi-Chip-Module-Based Architecture}. In \bibinfo{booktitle}{\emph{Proceedings of the 52nd Annual IEEE/ACM International Symposium on Microarchitecture}} (Columbus, OH, USA) \emph{(\bibinfo{series}{MICRO '52})}. \bibinfo{publisher}{Association for Computing Machinery}, \bibinfo{address}{New York, NY, USA}, \bibinfo{pages}{14–27}.
+\newblock
+\showISBNx{9781450369381}
+\href{https://doi.org/10.1145/3352460.3358302}{doi:\nolinkurl{10.1145/3352460.3358302}}
+
+
+\bibitem[Sharma et~al\mbox{.}(2023)]%
+        {florets}
+\bibfield{author}{\bibinfo{person}{Harsh Sharma}, \bibinfo{person}{Lukas Pfromm}, \bibinfo{person}{Rasit~Onur Topaloglu}, \bibinfo{person}{Janardhan~Rao Doppa}, \bibinfo{person}{Umit~Y. Ogras}, \bibinfo{person}{Ananth Kalyanraman}, {and} \bibinfo{person}{Partha~Pratim Pande}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Florets for Chiplets: Data Flow-aware High-Performance and Energy-efficient Network-on-Interposer for CNN Inference Tasks}.
+\newblock \bibinfo{journal}{\emph{ACM Trans. Embed. Comput. Syst.}} \bibinfo{volume}{22}, \bibinfo{number}{5s}, Article \bibinfo{articleno}{132} (\bibinfo{date}{Sept.} \bibinfo{year}{2023}), \bibinfo{numpages}{21}~pages.
+\newblock
+\showISSN{1539-9087}
+\href{https://doi.org/10.1145/3608098}{doi:\nolinkurl{10.1145/3608098}}
+
+
+\bibitem[Tan et~al\mbox{.}(2021)]%
+        {nnBaton}
+\bibfield{author}{\bibinfo{person}{Zhanhong Tan}, \bibinfo{person}{Hongyu Cai}, \bibinfo{person}{Runpei Dong}, {and} \bibinfo{person}{Kaisheng Ma}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{NN-baton: DNN workload orchestration and chiplet granularity exploration for multichip accelerators}. In \bibinfo{booktitle}{\emph{Proceedings of the 48th Annual International Symposium on Computer Architecture}} (Virtual Event, Spain) \emph{(\bibinfo{series}{ISCA '21})}. \bibinfo{publisher}{IEEE Press}, \bibinfo{pages}{1013–1026}.
+\newblock
+\showISBNx{9781450390866}
+\href{https://doi.org/10.1109/ISCA52012.2021.00083}{doi:\nolinkurl{10.1109/ISCA52012.2021.00083}}
+
+
+\bibitem[Zhang et~al\mbox{.}(2024)]%
+        {INDM}
+\bibfield{author}{\bibinfo{person}{Jinming Zhang}, \bibinfo{person}{Xi Fan}, \bibinfo{person}{Yaoyao Ye}, \bibinfo{person}{Xuyan Wang}, \bibinfo{person}{Guojie Xiong}, \bibinfo{person}{Xianglun Leng}, \bibinfo{person}{Ningyi Xu}, \bibinfo{person}{Yong Lian}, {and} \bibinfo{person}{Guanghui He}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{INDM: Chiplet-Based Interconnect Network and Dataflow Mapping for DNN Accelerators}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems}} \bibinfo{volume}{43}, \bibinfo{number}{4} (\bibinfo{year}{2024}), \bibinfo{pages}{1107--1120}.
+\newblock
+\href{https://doi.org/10.1109/TCAD.2023.3332832}{doi:\nolinkurl{10.1109/TCAD.2023.3332832}}
+
+
+\end{thebibliography}
