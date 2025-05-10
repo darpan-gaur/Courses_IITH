@@ -1,0 +1,10 @@
+Epoch 1/10 Train loss: 0.254 Train accuracy: 0.920 Validation loss: 0.081 Validation accuracy: 0.975
+Epoch 2/10 Train loss: 0.066 Train accuracy: 0.979 Validation loss: 0.052 Validation accuracy: 0.985
+Epoch 3/10 Train loss: 0.049 Train accuracy: 0.985 Validation loss: 0.065 Validation accuracy: 0.980
+Epoch 4/10 Train loss: 0.035 Train accuracy: 0.989 Validation loss: 0.045 Validation accuracy: 0.986
+Epoch 5/10 Train loss: 0.029 Train accuracy: 0.990 Validation loss: 0.051 Validation accuracy: 0.985
+Epoch 6/10 Train loss: 0.023 Train accuracy: 0.992 Validation loss: 0.047 Validation accuracy: 0.988
+Epoch 7/10 Train loss: 0.020 Train accuracy: 0.993 Validation loss: 0.045 Validation accuracy: 0.988
+Epoch 8/10 Train loss: 0.017 Train accuracy: 0.994 Validation loss: 0.039 Validation accuracy: 0.989
+Epoch 9/10 Train loss: 0.015 Train accuracy: 0.995 Validation loss: 0.052 Validation accuracy: 0.986
+Epoch 10/10 Train loss: 0.012 Train accuracy: 0.996 Validation loss: 0.042 Validation accuracy: 0.988

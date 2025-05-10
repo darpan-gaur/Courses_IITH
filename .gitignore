@@ -1,0 +1,16 @@
+# ignore all latex build files except the main .tex file
+# ignore all .aux files
+*.aux
+# ignore all .fdb_latexmk
+*.fdb_latexmk
+# ignore all .fls files
+*.fls
+# ignore all .log files
+*.log
+# ignore all .out files
+*.out
+# ignore all .synctex.gz files
+*.synctex.gz
+
+# ignore .vscode directory
+.vscode/

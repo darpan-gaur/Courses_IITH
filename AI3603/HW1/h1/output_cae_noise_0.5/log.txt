@@ -1,0 +1,10 @@
+Epoch 1/10 Train loss: 0.112 Val loss: 0.112
+Epoch 2/10 Train loss: 0.112 Val loss: 0.112
+Epoch 3/10 Train loss: 0.112 Val loss: 0.112
+Epoch 4/10 Train loss: 0.112 Val loss: 0.112
+Epoch 5/10 Train loss: 0.112 Val loss: 0.112
+Epoch 6/10 Train loss: 0.112 Val loss: 0.112
+Epoch 7/10 Train loss: 0.112 Val loss: 0.112
+Epoch 8/10 Train loss: 0.112 Val loss: 0.112
+Epoch 9/10 Train loss: 0.112 Val loss: 0.112
+Epoch 10/10 Train loss: 0.112 Val loss: 0.112
